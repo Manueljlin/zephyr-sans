@@ -1,4 +1,4 @@
-# Ocean Sans
+# Zephyr Sans
 
 ## About
 A monoline sans serif font inspired by Oxygen and Comme, with a very large x-height of nearly 75%.

@@ -7,10 +7,10 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - OceanSans.designspace
+  - ZephyrSans.designspace
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "Ocean Sans"
+familyName: "Zephyr Sans"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -62,7 +62,7 @@ autohintOTF: true
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 # stat:
-#   OceanSans[wght].ttf:
+#   ZephyrSans[wght].ttf:
 #   - name: Weight
 #     tag: wght
 #     values:
