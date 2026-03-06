@@ -68,6 +68,8 @@
     <string>d.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>eacute</key>
+    <string>eacute.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>ellipsis</key>
@@ -94,6 +96,8 @@
     <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>iacute</key>
+    <string>iacute.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>k</key>

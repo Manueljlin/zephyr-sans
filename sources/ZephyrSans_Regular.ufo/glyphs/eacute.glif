@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="aacute" format="2">
-  <advance width="575"/>
-  <unicode hex="00E1"/>
+<glyph name="eacute" format="2">
+  <advance width="570"/>
+  <unicode hex="00E9"/>
   <outline>
     <contour>
       <point x="258" y="642" type="line"/>
@@ -9,6 +9,6 @@
       <point x="478" y="793" type="line"/>
       <point x="378" y="793" type="line"/>
     </contour>
-    <component base="a"/>
+    <component base="e"/>
   </outline>
 </glyph>
