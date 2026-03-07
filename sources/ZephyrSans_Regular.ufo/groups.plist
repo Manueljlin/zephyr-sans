@@ -19,6 +19,7 @@
       <string>h</string>
       <string>m</string>
       <string>n</string>
+      <string>ntilde</string>
     </array>
     <key>public.kern1.o</key>
     <array>
@@ -54,6 +55,10 @@
       <string>n</string>
       <string>p</string>
       <string>r</string>
+    </array>
+    <key>public.kern2.n</key>
+    <array>
+      <string>ntilde</string>
     </array>
     <key>public.kern2.o</key>
     <array>
