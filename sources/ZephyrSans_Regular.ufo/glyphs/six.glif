@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="771"/>
+  <unicode hex="0036"/>
+  <image fileName="965162d1-e7f1-43df-ab87-e8ed1293c4f6.png" xScale="5.071795758182816" yScale="5.071795758182816" yOffset="-337.0" color="0,0,0,0.15"/>
+  <guideline x="0" y="490" angle="0" name="n" identifier="fontra-guideline-0"/>
+  <outline>
+    <contour>
+      <point x="385" y="490" type="curve" smooth="yes"/>
+      <point x="245" y="490"/>
+      <point x="130" y="379"/>
+      <point x="130" y="239" type="curve" smooth="yes"/>
+      <point x="130" y="99"/>
+      <point x="245" y="-12"/>
+      <point x="385" y="-12" type="curve" smooth="yes"/>
+      <point x="525" y="-12"/>
+      <point x="640" y="99"/>
+      <point x="640" y="239" type="curve" smooth="yes"/>
+      <point x="640" y="379"/>
+      <point x="525" y="490"/>
+    </contour>
+    <contour>
+      <point x="383" y="418" type="curve"/>
+      <point x="483" y="418"/>
+      <point x="562" y="339"/>
+      <point x="562" y="239" type="curve" smooth="yes"/>
+      <point x="562" y="139"/>
+      <point x="485" y="60"/>
+      <point x="385" y="60" type="curve" smooth="yes"/>
+      <point x="285" y="60"/>
+      <point x="208" y="139"/>
+      <point x="208" y="239" type="curve" smooth="yes"/>
+      <point x="208" y="339"/>
+      <point x="283" y="418"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

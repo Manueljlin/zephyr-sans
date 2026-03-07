@@ -62,6 +62,8 @@
     <string>c.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -142,6 +144,8 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>six</key>
+    <string>six.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>
