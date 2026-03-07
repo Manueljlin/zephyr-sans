@@ -26,6 +26,8 @@
     <string>b.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>ccedilla</key>
+    <string>ccedilla.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>e</key>

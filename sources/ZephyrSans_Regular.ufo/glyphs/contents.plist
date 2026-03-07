@@ -60,6 +60,8 @@
     <string>bracketright.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>ccedilla</key>
+    <string>ccedilla.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
