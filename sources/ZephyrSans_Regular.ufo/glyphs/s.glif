@@ -2,6 +2,9 @@
 <glyph name="s" format="2">
   <advance width="524"/>
   <unicode hex="0073"/>
+  <guideline x="275" y="275" angle="45"/>
+  <guideline x="275" y="275" angle="40"/>
+  <guideline x="275" y="275" angle="50"/>
   <outline>
     <contour>
       <point x="467" y="484" type="curve"/>
