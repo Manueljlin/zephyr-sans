@@ -80,3 +80,11 @@ in the eu/uk release (red cover), 2nd edition is page 55
 
 alternatively, "letters of credit: a view of type design" by walter tracy,
 (or search "tracy method") which is what karen cheng references on the same page
+
+
+
+# Angles
+
+- 5deg  `g`
+- 15deg `{ } f j ç`
+- 30deg `( )`

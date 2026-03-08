@@ -2,6 +2,8 @@
 <glyph name="g" format="2">
   <advance width="627"/>
   <unicode hex="0067"/>
+  <guideline x="608" y="275" angle="95" name="5deg" identifier="fontra-guideline-0"/>
+  <guideline x="608" y="275" angle="85" name="-5deg" identifier="fontra-guideline-1"/>
   <outline>
     <contour>
       <point x="140" y="-77" type="curve" smooth="yes"/>
@@ -77,7 +79,7 @@
       <point x="427" y="505" type="line"/>
       <point x="427" y="505"/>
       <point x="476" y="589"/>
-      <point x="579" y="589" type="curve"/>
+      <point x="581" y="589" type="curve"/>
       <point x="588" y="512" type="line"/>
       <point x="575" y="512" type="line"/>
       <point x="490" y="512"/>
@@ -88,4 +90,12 @@
       <point x="101" y="264" type="move"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-1</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>
