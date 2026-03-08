@@ -83,6 +83,6 @@ alternatively, "letters of credit: a view of type design" by walter tracy,
 
 # Angles
 
-- 5deg  `g f t j c`
+- 5deg  `g f t j l c`
 - 15deg `{ } ç`
 - 30deg `( )`
