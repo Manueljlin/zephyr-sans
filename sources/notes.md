@@ -62,9 +62,7 @@ special cases:
 
 - f
     - on left  -- 50 (looked fine)
-    - on right -- 18
-        - measured 25 from middle of hook instead of top
-        - `fl` gap on the right of tail looks equal to `lo` 
+    - on right -- 15 (looked fine, tried to match gap of fl with gap of lo)
     - `|o| |f| |l| |i| effigy flow flamingo fruitful`
     - `nnfnn ooofooo dogfood affine`
 
