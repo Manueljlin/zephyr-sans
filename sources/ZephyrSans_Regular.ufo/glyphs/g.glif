@@ -4,6 +4,8 @@
   <unicode hex="0067"/>
   <guideline x="608" y="275" angle="95" name="5deg" identifier="fontra-guideline-0"/>
   <guideline x="608" y="275" angle="85" name="-5deg" identifier="fontra-guideline-1"/>
+  <guideline x="197" y="131" angle="0" identifier="fontra-guideline-2"/>
+  <guideline x="197" y="46" angle="177" name="-3deg"/>
   <outline>
     <contour>
       <point x="140" y="-77" type="curve" smooth="yes"/>
@@ -95,6 +97,8 @@
       <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
       <true/>
       <key>com.typemytype.robofont.guideline.locked.fontra-guideline-1</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-2</key>
       <true/>
     </dict>
   </lib>

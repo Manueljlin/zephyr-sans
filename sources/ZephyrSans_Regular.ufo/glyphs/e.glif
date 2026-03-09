@@ -4,6 +4,7 @@
   <unicode hex="0065"/>
   <guideline x="197" y="275" angle="150" identifier="fontra-guideline-0"/>
   <guideline x="197" y="275" angle="30" identifier="fontra-guideline-1"/>
+  <guideline x="197" y="131" angle="0" identifier="fontra-guideline-2"/>
   <outline>
     <contour>
       <point x="438" y="347" type="line"/>
@@ -47,6 +48,8 @@
       <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
       <true/>
       <key>com.typemytype.robofont.guideline.locked.fontra-guideline-1</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-2</key>
       <true/>
     </dict>
   </lib>
