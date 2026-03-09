@@ -61,8 +61,8 @@ special cases:
     - `nnznn ooozooo`
 
 - f
-    - on left  -- 50 (looked fine)
-    - on right -- 15 (looked fine, tried to match gap of fl with gap of lo)
+    - on left  -- 35
+    - on right -- 40 (looked fine, tried to match gap of fl with gap of lo)
     - `|o| |f| |l| |i| effigy flow flamingo fruitful`
     - `nnfnn ooofooo dogfood affine`
 
