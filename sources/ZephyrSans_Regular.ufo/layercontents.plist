@@ -38,5 +38,17 @@
       <string>contrast</string>
       <string>glyphs.contrast</string>
     </array>
+    <array>
+      <string>bg</string>
+      <string>glyphs.bg</string>
+    </array>
+    <array>
+      <string>xd</string>
+      <string>glyphs.xd</string>
+    </array>
+    <array>
+      <string>sketch3</string>
+      <string>glyphs.sketch3</string>
+    </array>
   </array>
 </plist>
