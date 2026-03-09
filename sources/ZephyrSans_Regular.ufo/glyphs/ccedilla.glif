@@ -3,10 +3,10 @@
   <advance width="566"/>
   <unicode hex="00E7"/>
   <guideline x="150" y="550" angle="90" name="cedilla left" identifier="fontra-guideline-0"/>
-  <guideline x="421" y="550" angle="90" name="right cedilla" identifier="fontra-guideline-1"/>
+  <guideline x="410" y="550" angle="90" name="right cedilla" identifier="fontra-guideline-1"/>
   <guideline x="150" y="-225" angle="75" name="left diag" identifier="fontra-guideline-2"/>
-  <guideline x="421" y="-225" angle="105" name="right diag" identifier="fontra-guideline-3"/>
-  <guideline x="285.5" y="270" angle="90" name="center" identifier="fontra-guideline-4"/>
+  <guideline x="410" y="-225" angle="105" name="right diag" identifier="fontra-guideline-3"/>
+  <guideline x="280" y="270" angle="90" name="center" identifier="fontra-guideline-4"/>
   <outline>
     <contour>
       <point x="265" y="-7" type="curve"/>
