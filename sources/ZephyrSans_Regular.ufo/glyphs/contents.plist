@@ -70,6 +70,8 @@
     <string>comma.glif</string>
     <key>d</key>
     <string>d.glif</string>
+    <key>divide</key>
+    <string>divide.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eacute</key>
@@ -82,6 +84,8 @@
     <string>emdash.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
+    <key>equal</key>
+    <string>equal.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>f</key>
@@ -110,6 +114,10 @@
     <string>l.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>multiply</key>
+    <string>multiply.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nbspace</key>
@@ -130,6 +138,8 @@
     <string>parenright.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>quotedbl</key>
