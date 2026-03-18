@@ -38,5 +38,9 @@
       <string>contrast</string>
       <string>glyphs.contrast</string>
     </array>
+    <array>
+      <string>thinner</string>
+      <string>glyphs.thinner</string>
+    </array>
   </array>
 </plist>

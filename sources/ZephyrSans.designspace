@@ -5,9 +5,21 @@
     <axis tag="ital" name="italic" values="0 1" default="0"/>
   </axes>
   <sources>
+    <source filename="ZephyrSans_Thin.ufo" name="2f9e3dc4" familyname="Zephyr Sans" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="italic" xvalue="0"/>
+      </location>
+    </source>
     <source filename="ZephyrSans_Regular.ufo" name="f3805769" familyname="Zephyr Sans" stylename="Regular">
       <location>
         <dimension name="weight" xvalue="400"/>
+        <dimension name="italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="ZephyrSans_Black.ufo" name="e0902873" familyname="Zephyr Sans" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="900"/>
         <dimension name="italic" xvalue="0"/>
       </location>
     </source>

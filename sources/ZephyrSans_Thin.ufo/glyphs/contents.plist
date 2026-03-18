@@ -4,6 +4,8 @@
   <dict>
     <key>braceleft</key>
     <string>braceleft.glif</string>
+    <key>bracketleft</key>
+    <string>bracketleft.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>n</key>
@@ -12,5 +14,7 @@
     <string>numbersign.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>parenleft</key>
+    <string>parenleft.glif</string>
   </dict>
 </plist>
