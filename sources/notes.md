@@ -1,3 +1,23 @@
+# Stroke width
+
+## 100,Thin
+
+- 24 hor
+- 27 vert
+- ~1.8x rounded to rect
+
+## 400,Regular
+
+- 72 hor
+- 80 vert
+- 1.45x rounded to rect ratio
+
+## 900,Black
+
+
+--------------------------------------------------------------------------------
+
+
 # Sidebearings
 
 ## UPPERCASE
