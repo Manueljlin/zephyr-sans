@@ -25,7 +25,7 @@
       <point x="534" y="0" type="line"/>
       <point x="508" y="0" type="line"/>
       <point x="508" y="359" type="line" smooth="yes"/>
-      <point x="508" y="462"/>
+      <point x="508" y="472"/>
       <point x="454" y="538"/>
     </contour>
   </outline>

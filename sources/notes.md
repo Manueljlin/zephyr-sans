@@ -18,7 +18,7 @@
 --------------------------------------------------------------------------------
 
 
-# Sidebearings
+# Sidebearings (weight 100, see multipliers section)
 
 ## UPPERCASE
 
@@ -99,6 +99,11 @@ in the eu/uk release (red cover), 2nd edition is page 55
 alternatively, "letters of credit: a view of type design" by walter tracy,
 (or search "tracy method") which is what karen cheng references on the same page
 
+
+### sidebearing multipliers
+- 100 -> 1x
+- 400 -> 1.25x
+- 900 -> todo
 
 
 # Angles
