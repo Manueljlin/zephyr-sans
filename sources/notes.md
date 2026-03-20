@@ -4,17 +4,17 @@ following lucas de groot interpolation theory formula.
 
 geom. ratio per step ×1.2577
 
-| Weight     | Units | Rounded2Rect Ratio | CSS |
-|------------|-------|--------------------|-----|
-| Thin       | 40    | ~1.8x              | 100 |
-| ExtraLight | 50    |                    | 200 |
-| Light      | 63    |                    | 300 |
-| Regular    | 80    | ~1.45x             | 400 |
-| Medium     | 100   |                    | 500 |
-| SemiBold   | 126   |                    | 600 |
-| Bold       | 158   |                    | 700 |
-| ExtraBold  | 200   |                    | 800 |
-| Black      | 250   |                    | 900 |
+| Weight     | Units | Rounded2Rect Ratio | CSS | width |
+|------------|-------|--------------------|-----|-------|
+| Thin       | 40    | ~1.8x              | 100 |       |
+| ExtraLight | 50    |                    | 200 |       |
+| Light      | 63    |                    | 300 |       |
+| Regular    | 80    | ~1.45x             | 400 |       |
+| Medium     | 100   |                    | 500 |       |
+| SemiBold   | 126   |                    | 600 |       |
+| Bold       | 158   |                    | 700 |       |
+| ExtraBold  | 200   |                    | 800 |       |
+| Black      | 250   |                    | 900 | ~1.3x |
 
 
 --------------------------------------------------------------------------------
