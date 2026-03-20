@@ -4,10 +4,14 @@
   <dict>
     <key>a</key>
     <string>a.glif</string>
+    <key>bar</key>
+    <string>bar.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>exclam</key>
