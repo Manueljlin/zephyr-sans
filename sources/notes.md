@@ -1,18 +1,20 @@
 # Stroke width
 
-## 100,Thin
+following lucas de groot interpolation theory formula.
 
-- 24 hor
-- 27 vert
-- ~1.8x rounded to rect
+geom. ratio per step ×1.2577
 
-## 400,Regular
-
-- 72 hor
-- 80 vert
-- 1.45x rounded to rect ratio
-
-## 900,Black
+| Weight     | Units | Rounded2Rect Ratio | CSS |
+|------------|-------|--------------------|-----|
+| Thin       | 40    | ~1.8x              | 100 |
+| ExtraLight | 50    |                    | 200 |
+| Light      | 63    |                    | 300 |
+| Regular    | 80    | ~1.45x             | 400 |
+| Medium     | 100   |                    | 500 |
+| SemiBold   | 126   |                    | 600 |
+| Bold       | 158   |                    | 700 |
+| ExtraBold  | 200   |                    | 800 |
+| Black      | 250   |                    | 900 |
 
 
 --------------------------------------------------------------------------------
