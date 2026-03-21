@@ -2,7 +2,6 @@
 <glyph name="a" format="2">
   <advance width="575"/>
   <unicode hex="0061"/>
-  <image fileName="ad27920c-8931-4d29-8f69-97765f0d01a6.png" xScale="5.758531929218494" yScale="5.758531929218494" xOffset="-95.80651170142806" yOffset="-322.86266853082554" color="0,0,0,0.15"/>
   <guideline x="0" y="521" angle="145" identifier="fontra-guideline-0"/>
   <anchor x="293" y="658" name="top"/>
   <outline>
@@ -27,7 +26,7 @@
     </contour>
     <contour>
       <point x="467" y="240" type="line"/>
-      <point x="467" y="140"/>
+      <point x="467" y="180"/>
       <point x="440" y="-12"/>
       <point x="250" y="-12" type="curve" smooth="yes"/>
       <point x="150" y="-12"/>
@@ -43,7 +42,7 @@
       <point x="145" y="90"/>
       <point x="188" y="60"/>
       <point x="249" y="60" type="curve" smooth="yes"/>
-      <point x="351" y="60"/>
+      <point x="361" y="60"/>
       <point x="425" y="119"/>
       <point x="425" y="254" type="curve"/>
     </contour>
