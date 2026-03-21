@@ -63,6 +63,7 @@
     <key>public.kern2.o</key>
     <array>
       <string>c</string>
+      <string>ccedilla</string>
       <string>d</string>
       <string>e</string>
       <string>o</string>
