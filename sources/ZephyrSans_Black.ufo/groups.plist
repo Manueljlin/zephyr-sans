@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>public.kern1.(</key>
+    <array>
+      <string>braceleft</string>
+      <string>parenleft</string>
+    </array>
+    <key>public.kern1.)</key>
+    <array>
+      <string>braceright</string>
+      <string>parenright</string>
+    </array>
     <key>public.kern1..</key>
     <array>
       <string>comma</string>
@@ -38,6 +48,16 @@
     <array>
       <string>k</string>
       <string>x</string>
+    </array>
+    <key>public.kern2.(</key>
+    <array>
+      <string>braceleft</string>
+      <string>parenleft</string>
+    </array>
+    <key>public.kern2.)</key>
+    <array>
+      <string>braceright</string>
+      <string>parenright</string>
     </array>
     <key>public.kern2..</key>
     <array>
