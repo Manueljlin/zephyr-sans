@@ -54,6 +54,8 @@
       <integer>-60</integer>
       <key>t</key>
       <integer>-30</integer>
+      <key>u</key>
+      <integer>-25</integer>
     </dict>
     <key>g</key>
     <dict>
@@ -198,6 +200,11 @@
       <integer>-10</integer>
       <key>t</key>
       <integer>-30</integer>
+    </dict>
+    <key>u</key>
+    <dict>
+      <key>g</key>
+      <integer>-20</integer>
     </dict>
     <key>z</key>
     <dict>
