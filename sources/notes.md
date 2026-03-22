@@ -1,3 +1,21 @@
+# Kerning
+
+## Right
+
+| Group            | Reference | Characters        |
+|------------------|-----------|-------------------|
+| Rounded          | o         | b, o, p           |
+| Arches           | n         | h, m, n           |
+| Verticals        | i         | i, j, l[^1], d, q |
+| Diagonals        | x         | k, x              |
+| Diagonals (desc) | v         | v, w, y           |
+
+[^1] `l` has looped tail on this font so its r kerning is not shared with i
+
+
+--------------------------------------------------------------------------------
+
+
 # Stroke width
 
 two-segment interpolation: linear (100–400) + de groot (400–900)
