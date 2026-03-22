@@ -47,7 +47,7 @@
       <key>f</key>
       <integer>-30</integer>
       <key>public.kern2..</key>
-      <integer>-90</integer>
+      <integer>-135</integer>
       <key>public.kern2.i</key>
       <integer>-25</integer>
       <key>public.kern2.o</key>
@@ -61,6 +61,8 @@
     <dict>
       <key>a</key>
       <integer>-30</integer>
+      <key>public.kern2..</key>
+      <integer>-40</integer>
       <key>public.kern2.o</key>
       <integer>-15</integer>
       <key>u</key>
@@ -118,7 +120,7 @@
       <key>g</key>
       <integer>-45</integer>
       <key>public.kern2..</key>
-      <integer>-10</integer>
+      <integer>-30</integer>
       <key>public.kern2.i</key>
       <integer>-10</integer>
       <key>public.kern2.v</key>
@@ -137,7 +139,7 @@
       <key>g</key>
       <integer>-60</integer>
       <key>public.kern2..</key>
-      <integer>-100</integer>
+      <integer>-160</integer>
       <key>public.kern2.i</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
@@ -174,6 +176,8 @@
       <integer>-40</integer>
       <key>g</key>
       <integer>-40</integer>
+      <key>public.kern2..</key>
+      <integer>-215</integer>
       <key>public.kern2.o</key>
       <integer>-30</integer>
       <key>public.kern2.v</key>
@@ -183,6 +187,8 @@
     <dict>
       <key>a</key>
       <integer>-10</integer>
+      <key>public.kern2..</key>
+      <integer>-20</integer>
       <key>public.kern2.i</key>
       <integer>-10</integer>
       <key>t</key>
