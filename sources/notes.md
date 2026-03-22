@@ -2,15 +2,16 @@
 
 ## Right
 
-| Group            | Reference | Characters        |
-|------------------|-----------|-------------------|
-| Rounded          | o         | b, o, p           |
-| Arches           | n         | h, m, n           |
-| Verticals        | i         | i, j, l[^1], d, q |
-| Diagonals        | x         | k, x              |
-| Diagonals (desc) | v         | v, w, y           |
+| Group            | Reference | Characters               |
+|------------------|-----------|--------------------------|
+| Rounded          | o         | b, o, p                  |
+| Arches           | n         | h, m, n                  |
+| Verticals        | i         | i, j, l[^1], d, q, u[^2] |
+| Diagonals        | x         | k, x                     |
+| Diagonals (desc) | v         | v, w, y                  |
 
 [^1] `l` has looped tail on this font so its r kerning is not shared with i
+[^2] afaict usually doesn't inherit from `i`, so this is non standard
 
 
 --------------------------------------------------------------------------------
