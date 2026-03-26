@@ -14,17 +14,17 @@
     </axis>
   </axes>
   <sources>
-    <source filename="ZephyrSans_Thin.ufo" familyname="Zephyr Sans" stylename="Thin">
+    <source filename="ZephyrSans_Thin.ufo" name="::fontra000" familyname="Zephyr Sans" stylename="Thin">
       <location>
         <dimension name="weight" xvalue="27"/>
       </location>
     </source>
-    <source filename="ZephyrSans_Regular.ufo" familyname="Zephyr Sans" stylename="Regular">
+    <source filename="ZephyrSans_Regular.ufo" name="::fontra001" familyname="Zephyr Sans" stylename="Regular">
       <location>
         <dimension name="weight" xvalue="80"/>
       </location>
     </source>
-    <source filename="ZephyrSans_Black.ufo" familyname="Zephyr Sans" stylename="Black">
+    <source filename="ZephyrSans_Black.ufo" name="::fontra002" familyname="Zephyr Sans" stylename="Black">
       <location>
         <dimension name="weight" xvalue="207"/>
       </location>
@@ -32,31 +32,76 @@
   </sources>
   <instances>
     <instance familyname="Zephyr Sans" stylename="Thin" filename="ZephyrSans-Thin.ufo">
-      <location><dimension name="weight" xvalue="27"/></location>
+      <location>
+        <dimension name="weight" xvalue="27"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraLight" filename="ZephyrSans-ExtraLight.ufo">
-      <location><dimension name="weight" xvalue="45"/></location>
+      <location>
+        <dimension name="weight" xvalue="45"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Light" filename="ZephyrSans-Light.ufo">
-      <location><dimension name="weight" xvalue="62"/></location>
+      <location>
+        <dimension name="weight" xvalue="62"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Regular" filename="ZephyrSans-Regular.ufo">
-      <location><dimension name="weight" xvalue="80"/></location>
+      <location>
+        <dimension name="weight" xvalue="80"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Medium" filename="ZephyrSans-Medium.ufo">
-      <location><dimension name="weight" xvalue="97"/></location>
+      <location>
+        <dimension name="weight" xvalue="97"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="SemiBold" filename="ZephyrSans-SemiBold.ufo">
-      <location><dimension name="weight" xvalue="117"/></location>
+      <location>
+        <dimension name="weight" xvalue="117"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Bold" filename="ZephyrSans-Bold.ufo">
-      <location><dimension name="weight" xvalue="141"/></location>
+      <location>
+        <dimension name="weight" xvalue="141"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraBold" filename="ZephyrSans-ExtraBold.ufo">
-      <location><dimension name="weight" xvalue="171"/></location>
+      <location>
+        <dimension name="weight" xvalue="171"/>
+      </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Black" filename="ZephyrSans-Black.ufo">
-      <location><dimension name="weight" xvalue="207"/></location>
+      <location>
+        <dimension name="weight" xvalue="207"/>
+      </location>
     </instance>
   </instances>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Latin Core</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Core.txt</string>
+        </dict>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Latin Kernel</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </designspace>
