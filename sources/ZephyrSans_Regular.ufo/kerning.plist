@@ -62,7 +62,7 @@
       <key>public.kern2.i</key>
       <integer>-25</integer>
       <key>public.kern2.o</key>
-      <integer>-40</integer>
+      <integer>-65</integer>
       <key>quotesingle</key>
       <integer>20</integer>
       <key>t</key>
