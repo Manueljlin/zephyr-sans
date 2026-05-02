@@ -1,17 +1,68 @@
 # Kerning
 
-## Right
+## Left
 
 | Group            | Reference | Characters               |
 |------------------|-----------|--------------------------|
-| Rounded          | o         | b, o, p                  |
-| Arches           | n         | h, m, n                  |
-| Verticals        | i         | i, j, l[^1], d, q, u[^2] |
-| Diagonals        | x         | k, x                     |
-| Diagonals (desc) | v         | v, w, y                  |
+| opening          | (         | {, (                     |
+| closing          | )         | }, )                     |
+| punctuation      | .         | comma, period            |
+| rounded          | o         | b, o, p                  |
+| arches           | n         | h, m, n                  |
+| verticals        | i         | d, i, j, q, u[^1]        |
+| diagonals        | x         | k, x                     |
+| diagonals (desc) | v         | v, w, y                  |
 
-[^1] `l` has looped tail on this font so its r kerning is not shared with i
-[^2] afaict usually doesn't inherit from `i`, so this is non standard
+## Right
+
+| Group            | Reference | Characters                       |
+|------------------|-----------|----------------------------------|
+| opening          | (         | {, (                             |
+| closing          | )         | }, )                             |
+| punctuation      | .         | comma, period                    |
+| rounded          | o         | c, ç, d, e, o, q                 |
+| verticals        | i         | b, h, i, j, k, l[^2], m, n, p, r |
+| diagonals        | x         | x                                |
+| diagonals (desc) | v         | v, w, y                          |
+
+[^1] afaict usually doesn't inherit from `i`, so this is non standard
+[^2] `l` has looped tail on this font so its r kerning is not shared with i
+
+special cases in regular (kerning.plist is canonical, this may be outdated):
+
+glyph to glyph:
+- `Aa`, `aa`, `ag`
+- `ca`, `ct`
+- `ea`, `ef`, `es`, `et`
+- `fa`, `f]`, `ff`, `f'`, `ft`, `fu`
+- `ga`, `gu`
+- `la`, `lt`
+- `'s`, `'t`
+- `ra`, `rg`, `r-`
+- `sa`, `st`
+- `ta`, `tf`, `ts`, `tt`
+- `ug`
+
+glyph to group:
+- `a` + diagonals (desc)
+- `[` + verticals
+- `c` + verticals
+- `e` + punctuation, diagonals (desc), diagonals
+- `f` + closing, punctuation, verticals, rounded
+- `g` + punctuation, rounded
+- `l` + closing, punctuation, verticals, rounded, diagonals (desc)
+- `'` + rounded
+- `r` + punctuation, rounded, diagonals (desc)
+- `s` + punctuation, verticals
+- `t` + rounded, diagonals (desc)
+- `z` + rounded
+
+group-to-glyph:
+- verticals + `a`, `]`, `g`, `s`
+- arches + `a`, `f`, `g`, `t` (`n` + `f` coverd here so dnf looks right)
+- rounded + `a`, `f`, `g`, `s`, `t`
+- diagonals (desc) + `a`, `g`, `s`
+- diagonals + `a`, `f`, `g`, `s`, `t`
 
 
 --------------------------------------------------------------------------------
