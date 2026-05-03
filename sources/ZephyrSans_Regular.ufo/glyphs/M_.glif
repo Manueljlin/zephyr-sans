@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="836"/>
-  <unicode hex="004D"/>
+  <advance width="846" />
+  <unicode hex="004D" />
   <outline>
     <contour>
-      <point x="766" y="740" type="line"/>
-      <point x="766" y="0" type="line"/>
-      <point x="686" y="0" type="line"/>
-      <point x="686" y="635" type="line"/>
-      <point x="453" y="10" type="line"/>
-      <point x="377" y="10" type="line"/>
-      <point x="151" y="635" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="70" y="0" type="line"/>
-      <point x="71" y="740" type="line"/>
-      <point x="192" y="740" type="line"/>
-      <point x="416" y="120" type="line"/>
-      <point x="645" y="740" type="line"/>
+      <point x="771" y="740" type="line" />
+      <point x="771" y="0" type="line" />
+      <point x="691" y="0" type="line" />
+      <point x="691" y="635" type="line" />
+      <point x="458" y="10" type="line" />
+      <point x="382" y="10" type="line" />
+      <point x="156" y="635" type="line" />
+      <point x="156" y="0" type="line" />
+      <point x="75" y="0" type="line" />
+      <point x="76" y="740" type="line" />
+      <point x="197" y="740" type="line" />
+      <point x="421" y="120" type="line" />
+      <point x="650" y="740" type="line" />
     </contour>
   </outline>
 </glyph>

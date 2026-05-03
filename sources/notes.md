@@ -99,67 +99,67 @@ todo
 
 | # | Description                           | Value |
 |---|---------------------------------------|-------|
-| 1 | = left  sidebearing of n              | 70    |
-| 2 | = right sidebearing of n              | 65    |
-| 3 | slightly + than left sidebearing of n | 75    |
-| 4 | minimum sidebearings                  | 35    |
-| 5 | = sidebearings of o                   | 50    |
-| 6 | slightly - than sidebearings of o     | 45    |
+| 1 | = left  sidebearing of n              | 75    |
+| 2 | = right sidebearing of n              | 70    |
+| 3 | slightly + than left sidebearing of n | 80    |
+| 4 | minimum sidebearings                  | 40    |
+| 5 | = sidebearings of o                   | 55    |
+| 6 | slightly - than sidebearings of o     | 50    |
 
 
 special cases:
 - i
-    - on left  -- 57 instead of 75
-    - on right -- 52 instead of 70
-    - dot is larger and overshooting, so had to measure 75, 70 from the stem
+    - on left  -- 62 instead of 80
+    - on right -- 57 instead of 75
+    - dot is larger and overshooting, so had to measure 80, 75 from the stem
 
 - j 
-    - on left  -- -48 instead of 70 (bc of descender)
-        - measured 70 from the left above descender (effectively left sb of n)
+    - on left  -- -43 instead of 75 (bc of descender)
+        - measured 75 from the left above descender (effectively left sb of n)
     - on right -- same as `i`
 
-- r (on right) -- 0 instead of 35 (bc of larger overhang w angle)
-    - measured 35 from middle of hook instead of top
+- r (on right) -- 5 instead of 40 (bc of larger overhang w angle)
+    - measured 40 from middle of hook instead of top
     - pretty happy with it
     - `|r| rhinoceros wreck river`
     - `gordon run arabic`
 
-- l (on right) -- -5 instead of 65 (bc of looped tail)
+- l (on right) -- 0 instead of 70 (bc of looped tail)
     - visually adjusted volume of space with `nnlnnooloonn |l|`
     - could be improved?
 
 - g
-    - on left  -- 60
-    - on right -- 35 (minimum sidebearings)
+    - on left  -- 65
+    - on right -- 40 (minimum sidebearings)
     - visually adjusted with `ogo |g| bga xgz`
 
 - a
-    - on left  -- 65 (looked fine)
-    - on right -- 70 (left sb of n)
+    - on left  -- 70 (looked fine)
+    - on right -- 75 (left sb of n)
     - `|a| canarias arbusto vaqueros rabia`
     - `nnann a a oooaooo`
 
 - s
-    - on left  -- 50 (looked fine)
-    - on right -- 45 (looked fine)
+    - on left  -- 55 (looked fine)
+    - on right -- 50 (looked fine)
     - `|s| nnsnn ooosooo essex silvia`
 
 - z
-    - on left  -- 35 (minimum sb)
-    - on right -- 35 (ditto)
+    - on left  -- 40 (minimum sb)
+    - on right -- 40 (ditto)
     - `|o| |z| zephyr zx jazzy zumo`
     - `nnznn ooozooo`
 
 - f
-    - on left  -- 35
-    - on right -- 40 (looked fine, tried to match gap of fl with gap of lo)
+    - on left  -- 40
+    - on right -- 45 (looked fine, tried to match gap of fl with gap of lo)
     - `|o| |f| |l| |i| effigy flow flamingo fruitful`
     - `nnfnn ooofooo dogfood affine`
 
 - t
-    - on left  -- 50 (from `f`)
-    - on right -- 20
-        - measured 25 from middle of hook instead of bottom
+    - on left  -- 55 (from `f`)
+    - on right -- 25
+        - measured 30 from middle of hook instead of bottom
     - `|t| |f| tlo stick pt tuna ootoo htc nntnn deutsche`
 
 
