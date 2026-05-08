@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400">
-      <map input="100" output="27"/>
-      <map input="200" output="45"/>
-      <map input="300" output="62"/>
+    <axis tag="wght" name="weight" minimum="50" maximum="900" default="400">
+      <map input="50"  output="27"/>
+      <map input="100" output="36"/>
+      <map input="200" output="49"/>
+      <map input="300" output="64"/>
       <map input="400" output="80"/>
-      <map input="500" output="97"/>
-      <map input="600" output="117"/>
-      <map input="700" output="141"/>
-      <map input="800" output="171"/>
+      <map input="500" output="99"/>
+      <map input="600" output="121"/>
+      <map input="700" output="146"/>
+      <map input="800" output="174"/>
       <map input="900" output="207"/>
     </axis>
   </axes>
   <sources>
-    <source filename="ZephyrSans_Thin.ufo" name="::fontra000" familyname="Zephyr Sans" stylename="Thin">
+    <source filename="ZephyrSans_Hairline.ufo" name="::fontra000" familyname="Zephyr Sans" stylename="Hairline">
       <location>
         <dimension name="weight" xvalue="27"/>
       </location>
@@ -31,19 +32,24 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Zephyr Sans" stylename="Thin" filename="ZephyrSans-Thin.ufo">
+    <instance familyname="Zephyr Sans" stylename="Hairline" filename="ZephyrSans-Hairline.ufo">
       <location>
         <dimension name="weight" xvalue="27"/>
       </location>
     </instance>
+    <instance familyname="Zephyr Sans" stylename="Thin" filename="ZephyrSans-Thin.ufo">
+      <location>
+        <dimension name="weight" xvalue="36"/>
+      </location>
+    </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraLight" filename="ZephyrSans-ExtraLight.ufo">
       <location>
-        <dimension name="weight" xvalue="45"/>
+        <dimension name="weight" xvalue="49"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Light" filename="ZephyrSans-Light.ufo">
       <location>
-        <dimension name="weight" xvalue="62"/>
+        <dimension name="weight" xvalue="64"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Regular" filename="ZephyrSans-Regular.ufo">
@@ -53,22 +59,22 @@
     </instance>
     <instance familyname="Zephyr Sans" stylename="Medium" filename="ZephyrSans-Medium.ufo">
       <location>
-        <dimension name="weight" xvalue="97"/>
+        <dimension name="weight" xvalue="99"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="SemiBold" filename="ZephyrSans-SemiBold.ufo">
       <location>
-        <dimension name="weight" xvalue="117"/>
+        <dimension name="weight" xvalue="121"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Bold" filename="ZephyrSans-Bold.ufo">
       <location>
-        <dimension name="weight" xvalue="141"/>
+        <dimension name="weight" xvalue="146"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraBold" filename="ZephyrSans-ExtraBold.ufo">
       <location>
-        <dimension name="weight" xvalue="171"/>
+        <dimension name="weight" xvalue="174"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Black" filename="ZephyrSans-Black.ufo">
