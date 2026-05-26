@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedilla" format="2">
-  <advance width="565" />
+  <advance width="1130" />
   <unicode hex="00E7" />
-  <guideline x="155" y="550" angle="90" name="cedilla left" />
-  <guideline x="415" y="550" angle="90" name="right cedilla" />
-  <guideline x="155" y="-225" angle="75" name="left diag" />
-  <guideline x="415" y="-225" angle="105" name="right diag" />
-  <guideline x="285" y="270" angle="90" name="center" />
+  <guideline x="310" y="1100" angle="90" name="cedilla left" />
+  <guideline x="830" y="1100" angle="90" name="right cedilla" />
+  <guideline x="310" y="-450" angle="75" name="left diag" />
+  <guideline x="830" y="-450" angle="105" name="right diag" />
+  <guideline x="570" y="540" angle="90" name="center" />
   <outline>
     <contour>
-      <point x="270" y="-8" type="curve" />
-      <point x="270" y="5" type="line" />
-      <point x="271" y="5" />
-      <point x="426" y="-10" />
-      <point x="426" y="-120" type="curve" smooth="yes" />
-      <point x="426" y="-188" />
-      <point x="360" y="-227" />
-      <point x="285" y="-227" type="curve" smooth="yes" />
-      <point x="205" y="-227" />
-      <point x="163" y="-196" />
-      <point x="163" y="-196" type="curve" />
-      <point x="169" y="-174" type="line" />
-      <point x="170" y="-174" />
-      <point x="211" y="-204" />
-      <point x="285" y="-204" type="curve" smooth="yes" />
-      <point x="354" y="-204" />
-      <point x="399" y="-175" />
-      <point x="399" y="-117" type="curve" smooth="yes" />
-      <point x="399" y="-21" />
-      <point x="271" y="-8" />
+      <point x="540" y="-16" type="curve" />
+      <point x="540" y="10" type="line" />
+      <point x="542" y="10" />
+      <point x="852" y="-20" />
+      <point x="852" y="-240" type="curve" smooth="yes" />
+      <point x="852" y="-376" />
+      <point x="720" y="-454" />
+      <point x="570" y="-454" type="curve" smooth="yes" />
+      <point x="410" y="-454" />
+      <point x="326" y="-392" />
+      <point x="326" y="-392" type="curve" />
+      <point x="338" y="-348" type="line" />
+      <point x="340" y="-348" />
+      <point x="422" y="-408" />
+      <point x="570" y="-408" type="curve" smooth="yes" />
+      <point x="708" y="-408" />
+      <point x="798" y="-350" />
+      <point x="798" y="-234" type="curve" smooth="yes" />
+      <point x="798" y="-42" />
+      <point x="542" y="-16" />
     </contour>
-    <component base="c" xOffset="5" />
+    <component base="c" xOffset="10" />
   </outline>
 </glyph>

@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>775</integer>
+    <integer>1550</integer>
     <key>capHeight</key>
-    <integer>740</integer>
+    <integer>1480</integer>
     <key>descender</key>
-    <integer>-225</integer>
+    <integer>-450</integer>
     <key>familyName</key>
     <string>Zephyr Sans</string>
     <key>guidelines</key>
@@ -20,7 +20,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>347</integer>
+        <integer>694</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -30,7 +30,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>275</integer>
+        <integer>550</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -40,14 +40,14 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>203</integer>
+        <integer>406</integer>
       </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>unitsPerEm</key>
-    <integer>1000</integer>
+    <integer>2000</integer>
     <key>xHeight</key>
-    <integer>550</integer>
+    <integer>1100</integer>
   </dict>
 </plist>

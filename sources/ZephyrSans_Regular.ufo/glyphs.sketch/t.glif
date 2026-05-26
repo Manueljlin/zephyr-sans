@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="449"/>
+  <advance width="898"/>
   <unicode hex="0074"/>
-  <guideline x="343" y="775" angle="95" name="-5deg" identifier="fontra-guideline-0"/>
+  <guideline x="686" y="1550" angle="95" name="-5deg" identifier="fontra-guideline-0"/>
   <outline>
   </outline>
   <lib>

@@ -5,15 +5,15 @@
     <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
     <dict>
       <key>ascender</key>
-      <integer>18</integer>
+      <integer>36</integer>
       <key>baseline</key>
-      <integer>-12</integer>
+      <integer>-24</integer>
       <key>capHeight</key>
-      <integer>18</integer>
+      <integer>36</integer>
       <key>descender</key>
-      <integer>-6</integer>
+      <integer>-12</integer>
       <key>xHeight</key>
-      <integer>12</integer>
+      <integer>24</integer>
     </dict>
   </dict>
 </plist>

@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a" format="2">
-  <advance width="585" />
-  <unicode hex="0061" />
-  <guideline x="5" y="521" angle="145" identifier="fontra-guideline-0" />
-  <anchor x="298" y="658" name="top" />
+  <advance width="1170"/>
+  <unicode hex="0061"/>
+  <guideline x="10" y="1042" angle="145" identifier="fontra-guideline-0"/>
+  <anchor x="596" y="1316" name="top"/>
   <outline>
     <contour>
-      <point x="298" y="562" type="curve" smooth="yes" />
-      <point x="436" y="562" />
-      <point x="510" y="485" />
-      <point x="510" y="357" type="curve" smooth="yes" />
-      <point x="510" y="0" type="line" />
-      <point x="438" y="0" type="line" />
-      <point x="430" y="100" type="line" />
-      <point x="430" y="360" type="line" />
-      <point x="430" y="438" />
-      <point x="398" y="490" />
-      <point x="299" y="490" type="curve" smooth="yes" />
-      <point x="195" y="490" />
-      <point x="153" y="417" />
-      <point x="153" y="417" type="curve" />
-      <point x="94" y="459" type="line" />
-      <point x="94" y="459" />
-      <point x="155" y="562" />
+      <point x="596" y="1124" type="curve" smooth="yes"/>
+      <point x="872" y="1124"/>
+      <point x="1020" y="970"/>
+      <point x="1020" y="714" type="curve" smooth="yes"/>
+      <point x="1020" y="0" type="line"/>
+      <point x="876" y="0" type="line"/>
+      <point x="860" y="200" type="line"/>
+      <point x="860" y="720" type="line"/>
+      <point x="860" y="876"/>
+      <point x="796" y="980"/>
+      <point x="598" y="980" type="curve" smooth="yes"/>
+      <point x="390" y="980"/>
+      <point x="306" y="834"/>
+      <point x="306" y="834" type="curve"/>
+      <point x="188" y="918" type="line"/>
+      <point x="188" y="918"/>
+      <point x="310" y="1124"/>
     </contour>
     <contour>
-      <point x="254" y="60" type="curve" smooth="yes" />
-      <point x="366" y="60" />
-      <point x="430" y="119" />
-      <point x="430" y="254" type="curve" />
-      <point x="472" y="240" type="line" />
-      <point x="472" y="180" />
-      <point x="445" y="-12" />
-      <point x="255" y="-12" type="curve" smooth="yes" />
-      <point x="155" y="-12" />
-      <point x="70" y="42" />
-      <point x="70" y="138" type="curve" smooth="yes" />
-      <point x="70" y="296" />
-      <point x="240" y="328" />
-      <point x="451" y="328" type="curve" />
-      <point x="451" y="256" type="line" />
-      <point x="247" y="256" />
-      <point x="150" y="228" />
-      <point x="150" y="145" type="curve" smooth="yes" />
-      <point x="150" y="90" />
-      <point x="193" y="60" />
+      <point x="508" y="120" type="curve" smooth="yes"/>
+      <point x="732" y="120"/>
+      <point x="860" y="238"/>
+      <point x="860" y="508" type="curve"/>
+      <point x="944" y="480" type="line"/>
+      <point x="944" y="360"/>
+      <point x="890" y="-24"/>
+      <point x="510" y="-24" type="curve" smooth="yes"/>
+      <point x="310" y="-24"/>
+      <point x="140" y="84"/>
+      <point x="140" y="276" type="curve" smooth="yes"/>
+      <point x="140" y="592"/>
+      <point x="480" y="656"/>
+      <point x="902" y="656" type="curve"/>
+      <point x="902" y="512" type="line"/>
+      <point x="494" y="512"/>
+      <point x="300" y="456"/>
+      <point x="300" y="290" type="curve" smooth="yes"/>
+      <point x="300" y="180"/>
+      <point x="386" y="120"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
-      <true />
+      <true/>
     </dict>
   </lib>
 </glyph>

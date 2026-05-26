@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aacute" format="2">
-  <advance width="585" />
+  <advance width="1170" />
   <unicode hex="00E1" />
   <outline>
     <contour>
-      <point x="263" y="642" type="line" />
-      <point x="335" y="642" type="line" />
-      <point x="483" y="793" type="line" />
-      <point x="383" y="793" type="line" />
+      <point x="526" y="1284" type="line" />
+      <point x="670" y="1284" type="line" />
+      <point x="966" y="1586" type="line" />
+      <point x="766" y="1586" type="line" />
     </contour>
-    <component base="a" xOffset="5" />
+    <component base="a" xOffset="10" />
   </outline>
 </glyph>
