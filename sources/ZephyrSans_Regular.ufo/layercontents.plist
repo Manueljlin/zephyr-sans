@@ -27,18 +27,6 @@
       <string>glyphs.dotted</string>
     </array>
     <array>
-      <string>o</string>
-      <string>glyphs.o</string>
-    </array>
-    <array>
-      <string>sharp</string>
-      <string>glyphs.sharp</string>
-    </array>
-    <array>
-      <string>contrast</string>
-      <string>glyphs.contrast</string>
-    </array>
-    <array>
       <string>thinner</string>
       <string>glyphs.thinner</string>
     </array>
