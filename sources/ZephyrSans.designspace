@@ -2,7 +2,7 @@
 <designspace format="5.0">
   <axes>
     <axis tag="wght" name="weight" minimum="50" maximum="900" default="400">
-      <map input="50"  output="54"/>
+      <map input="50" output="54"/>
       <map input="100" output="71"/>
       <map input="200" output="98"/>
       <map input="300" output="127"/>
@@ -13,21 +13,25 @@
       <map input="800" output="348"/>
       <map input="900" output="414"/>
     </axis>
+    <axis tag="wdth" name="width" minimum="50" maximum="200" default="100"/>
   </axes>
   <sources>
     <source filename="ZephyrSans_Hairline.ufo" name="::fontra000" familyname="Zephyr Sans" stylename="Hairline">
       <location>
         <dimension name="weight" xvalue="54"/>
+        <dimension name="width" xvalue="100"/>
       </location>
     </source>
     <source filename="ZephyrSans_Regular.ufo" name="::fontra001" familyname="Zephyr Sans" stylename="Regular">
       <location>
         <dimension name="weight" xvalue="160"/>
+        <dimension name="width" xvalue="100"/>
       </location>
     </source>
     <source filename="ZephyrSans_Black.ufo" name="::fontra002" familyname="Zephyr Sans" stylename="Black">
       <location>
         <dimension name="weight" xvalue="414"/>
+        <dimension name="width" xvalue="100"/>
       </location>
     </source>
   </sources>

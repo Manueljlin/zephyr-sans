@@ -98,69 +98,72 @@ todo
 
 ## lowercase
 
+(hairline -> stem width (54) * 3.5 is left sidebearing of n)
 | # | Description                           | Value |
 |---|---------------------------------------|-------|
-| 1 | = left  sidebearing of n              | 150   |
-| 2 | = right sidebearing of n              | 140   |
-| 3 | slightly + than left sidebearing of n | 160   |
-| 4 | minimum sidebearings                  | 80    |
-| 5 | = sidebearings of o                   | 110   |
-| 6 | slightly - than sidebearings of o     | 100   |
+| 1 | = left  sidebearing of n              | 190   |
+| 2 | = right sidebearing of n              | 175   |
+| 3 | slightly + than left sidebearing of n | 205   |
+| 4 | minimum sidebearings                  | 40    |
+| 5 | = sidebearings of o                   | 150   |
+| 6 | slightly - than sidebearings of o     | 135   |
+
+(regular -> stem width (180) * 0.8 is left sidebearing of n)
+| # | Description                           | Value |
+|---|---------------------------------------|-------|
+| 1 | = left  sidebearing of n              | 144   |
+| 2 | = right sidebearing of n              | 133   |
+| 3 | slightly + than left sidebearing of n | 155   |
+| 4 | minimum sidebearings                  | 30    |
+| 5 | = sidebearings of o                   | 114   |
+| 6 | slightly - than sidebearings of o     | 102   |
 
 
-special cases:
+special cases (note that it's based on hairline):
 - i
     - on left  -- 124 instead of 160
     - on right -- 114 instead of 150
     - dot is larger and overshooting, so had to measure 160, 150 from the stem
 
-- j 
-    - on left  -- -86 instead of 150 (bc of descender)
-        - measured 150 from the left above descender (effectively left sb of n)
-    - on right -- same as `i`
-
-- r (on right) -- 10 instead of 80 (bc of larger overhang w angle)
-    - measured 80 from middle of hook instead of top
-    - pretty happy with it
+- r (on right)
     - `|r| rhinoceros wreck river`
     - `gordon run arabic`
 
-- l (on right) -- 0 instead of 140 (bc of looped tail)
+- l (on right)
     - visually adjusted volume of space with `nnlnnooloonn |l|`
     - could be improved?
 
 - g
-    - on left  -- 130
-    - on right -- 80 (minimum sidebearings)
+    - on left  -- 110
+    - on right -- 70
     - visually adjusted with `ogo |g| bga xgz`
 
 - a
-    - on left  -- 140 (looked fine)
-    - on right -- 150 (left sb of n)
+    - on left  -- 135 slightly less than sb of o
+    - on right -- 165 slightly more than sb of o
     - `|a| canarias arbusto vaqueros rabia`
     - `nnann a a oooaooo`
 
 - s
-    - on left  -- 110 (looked fine)
-    - on right -- 100 (looked fine)
+    - on left  -- 110
+    - on right -- 100
     - `|s| nnsnn ooosooo essex silvia`
 
 - z
-    - on left  -- 80 (minimum sb)
-    - on right -- 80 (ditto)
+    - on left  -- 100
+    - on right -- 90
     - `|o| |z| zephyr zx jazzy zumo`
     - `nnznn ooozooo`
 
 - f
-    - on left  -- 80
-    - on right -- 90 (looked fine, tried to match gap of fl with gap of lo)
+    - on left  -- 90
+    - on right -- 0
     - `|o| |f| |l| |i| effigy flow flamingo fruitful`
     - `nnfnn ooofooo dogfood affine`
 
 - t
-    - on left  -- 110 (from `f`)
-    - on right -- 50
-        - measured 60 from middle of hook instead of bottom
+    - on left  -- 60
+    - on right -- 70
     - `|t| |f| tlo stick pt tuna ootoo htc nntnn deutsche`
 
 
@@ -172,8 +175,10 @@ alternatively, "letters of credit: a view of type design" by walter tracy,
 
 
 ### sidebearing multipliers
-- 100 -> 1.3x, rounded up
-- 400 -> 1x (150 / 150, using left sidebearing of `n`)
+where 1x is 150 / 150, using left sidebearing of `n`
+
+- 100 -> 1x
+- 400 -> todo
 - 900 -> todo
 
 
