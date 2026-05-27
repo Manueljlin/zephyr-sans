@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
-  <advance width="1292" />
-  <unicode hex="0075" />
+  <advance width="1278"/>
+  <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="1056" y="1100" type="line" />
-      <point x="1056" y="400" type="line" />
-      <point x="1062" y="0" type="line" />
-      <point x="1110" y="0" type="line" />
-      <point x="1110" y="1100" type="line" />
+      <point x="1049" y="1100" type="line"/>
+      <point x="1049" y="400" type="line"/>
+      <point x="1055" y="0" type="line"/>
+      <point x="1103" y="0" type="line"/>
+      <point x="1103" y="1100" type="line"/>
     </contour>
     <contour>
-      <point x="182" y="1100" type="line" />
-      <point x="182" y="380" type="line" smooth="yes" />
-      <point x="182" y="118" />
-      <point x="328" y="-24" />
-      <point x="580" y="-24" type="curve" smooth="yes" />
-      <point x="988" y="-24" />
-      <point x="1072" y="398" />
-      <point x="1072" y="438" type="curve" />
-      <point x="1056" y="554" type="line" />
-      <point x="1056" y="348" />
-      <point x="924" y="24" />
-      <point x="584" y="24" type="curve" smooth="yes" />
-      <point x="342" y="24" />
-      <point x="234" y="156" />
-      <point x="234" y="382" type="curve" smooth="yes" />
-      <point x="234" y="1100" type="line" />
+      <point x="175" y="1100" type="line"/>
+      <point x="175" y="380" type="line" smooth="yes"/>
+      <point x="175" y="118"/>
+      <point x="321" y="-24"/>
+      <point x="573" y="-24" type="curve" smooth="yes"/>
+      <point x="981" y="-24"/>
+      <point x="1065" y="398"/>
+      <point x="1065" y="438" type="curve"/>
+      <point x="1049" y="554" type="line"/>
+      <point x="1049" y="348"/>
+      <point x="917" y="24"/>
+      <point x="577" y="24" type="curve" smooth="yes"/>
+      <point x="335" y="24"/>
+      <point x="227" y="156"/>
+      <point x="227" y="382" type="curve" smooth="yes"/>
+      <point x="227" y="1100" type="line"/>
     </contour>
   </outline>
 </glyph>
