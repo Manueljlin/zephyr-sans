@@ -70,21 +70,18 @@ group-to-glyph:
 
 # Stroke width
 
-note: outdated. 
-read https://manueljlin.com/post/fontra-101/en#interpolation-curves instead for now
-
-two-segment interpolation: linear (100–400) + de groot (400–900)
+read https://manueljlin.com/post/fontra-101/en#interpolation-curves for more info
 
 | Weight     | Units | CSS | ()2[]  |
 |------------|-------|-----|--------|
 | Hairline   | 54    | 50  |        |
-| Thin       | 72    | 100 | ~1.8x  |
+| Thin       | 71    | 100 | ~1.8x  |
 | ExtraLight | 98    | 200 |        |
-| Light      | 128   | 300 |        |
+| Light      | 127   | 300 |        |
 | Regular    | 160   | 400 | ~1.45x |
 | Medium     | 198   | 500 |        |
-| SemiBold   | 242   | 600 |        |
-| Bold       | 292   | 700 |        |
+| SemiBold   | 241   | 600 |        |
+| Bold       | 291   | 700 |        |
 | ExtraBold  | 348   | 800 |        |
 | Black      | 414   | 900 |        |
 
