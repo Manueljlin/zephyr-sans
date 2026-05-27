@@ -172,8 +172,8 @@ alternatively, "letters of credit: a view of type design" by walter tracy,
 
 
 ### sidebearing multipliers
-- 100 -> 1x
-- 400 -> 1.25x
+- 100 -> 1.29x (193 / 150, using left sidebearing of `n`)
+- 400 -> 1x (150 / 150, using left sidebearing of `n`)
 - 900 -> todo
 
 
