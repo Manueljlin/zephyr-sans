@@ -6,6 +6,8 @@
   <guideline x="1265" y="550" angle="85" name="-5deg"/>
   <guideline x="443" y="262" angle="0"/>
   <guideline x="443" y="92" angle="177" name="-3deg"/>
+  <anchor x="624" y="1100" name="top"/>
+  <anchor x="624" y="-444" name="bottom"/>
   <outline>
     <contour>
       <point x="164" y="-202" type="curve" smooth="yes"/>

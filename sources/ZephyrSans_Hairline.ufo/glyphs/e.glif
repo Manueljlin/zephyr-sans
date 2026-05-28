@@ -5,6 +5,8 @@
   <guideline x="437" y="550" angle="150"/>
   <guideline x="437" y="550" angle="30"/>
   <guideline x="437" y="262" angle="0"/>
+  <anchor x="650" y="0" name="bottom"/>
+  <anchor x="640" y="1100" name="top"/>
   <outline>
     <contour>
       <point x="1032" y="694" type="line"/>
