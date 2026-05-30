@@ -70,20 +70,42 @@ group-to-glyph:
 
 # Stroke width
 
-read https://manueljlin.com/post/fontra-101/en#interpolation-curves for more info
+```ts
+const Zephyr: StrokeCurveConfig = {
+  minWeight: 50,
+  maxWeight: 900,
+  minStroke: 54,
+  maxStroke: 463,
+  curvature: 1 / Math.sqrt(2)
+}
 
-| Weight     | Units | CSS | ()2[]  |
-|------------|-------|-----|--------|
-| Hairline   | 54    | 50  |        |
-| Thin       | 71    | 100 | ~1.8x  |
-| ExtraLight | 98    | 200 |        |
-| Light      | 127   | 300 |        |
-| Regular    | 160   | 400 | ~1.45x |
-| Medium     | 198   | 500 |        |
-| SemiBold   | 241   | 600 |        |
-| Bold       | 291   | 700 |        |
-| ExtraBold  | 348   | 800 |        |
-| Black      | 414   | 900 |        |
+strokeFromWeight(50,  Zephyr) // 54
+strokeFromWeight(100, Zephyr) // rounded to 72
+strokeFromWeight(200, Zephyr) // rounded to 101
+strokeFromWeight(300, Zephyr) // rounded to 133
+strokeFromWeight(400, Zephyr) // rounded to 170
+strokeFromWeight(500, Zephyr) // rounded to 213
+strokeFromWeight(600, Zephyr) // rounded to 262
+strokeFromWeight(700, Zephyr) // rounded to 319
+strokeFromWeight(800, Zephyr) // rounded to 386
+strokeFromWeight(900, Zephyr) // 463
+```
+
+| Weight     | Units | CSS |
+|------------|-------|-----|
+| Hairline   | 54    | 50  |
+| Thin       | 72    | 100 |
+| ExtraLight | 101   | 200 |
+| Light      | 133   | 300 |
+| Regular    | 170   | 400 |
+| Medium     | 213   | 500 |
+| SemiBold   | 262   | 600 |
+| Bold       | 319   | 700 |
+| ExtraBold  | 386   | 800 |
+| Black      | 463   | 900 |
+
+read https://manueljlin.com/post/fontra-101/en#interpolation-curves for more info.
+keep in mind it's somewhat outdated.
 
 
 --------------------------------------------------------------------------------
@@ -98,6 +120,17 @@ todo
 
 ## lowercase
 
+### ratios
+| # | Description                           | Value |
+|---|---------------------------------------|-------|
+| 1 | = left  sidebearing of n              | 1.0   |
+| 2 | = right sidebearing of n              | 0.921 |
+| 3 | slightly + than left sidebearing of n | 1.079 |
+| 4 | minimum sidebearings                  | 0.211 |
+| 5 | = sidebearings of o                   | 0.789 |
+| 6 | slightly - than sidebearings of o     | 0.711 |
+
+### results
 (hairline -> stem width (54) * 3.0 is left sidebearing of n)
 | # | Description                           | Value |
 |---|---------------------------------------|-------|
@@ -117,6 +150,16 @@ todo
 | 4 | minimum sidebearings                  | 30    |
 | 5 | = sidebearings of o                   | 114   |
 | 6 | slightly - than sidebearings of o     | 102   |
+
+(black -> stem width (463) * 0.1 is left sidebearing of n)
+| # | Description                           | Value |
+|---|---------------------------------------|-------|
+| 1 | = left  sidebearing of n              | 46    |
+| 2 | = right sidebearing of n              | 42    |
+| 3 | slightly + than left sidebearing of n | 50    |
+| 4 | minimum sidebearings                  | 10    |
+| 5 | = sidebearings of o                   | 36    |
+| 6 | slightly - than sidebearings of o     | 33    |
 
 
 special cases (note that it's based on hairline):
@@ -169,16 +212,19 @@ alternatively, "letters of credit: a view of type design" by walter tracy,
 (or search "tracy method") which is what karen cheng references on the same page
 
 
-### sidebearing multipliers
-where 1x is 150 / 150, using left sidebearing of `n`
-
-- 100 -> 1x
-- 400 -> todo
-- 900 -> todo
-
-
 # Angles
-
 - 5deg  `g f t j l c`
 - 15deg `{ } ç`
 - 30deg `( )`
+
+
+# Contrast
+- 100 -> 10%
+- 400 -> 10%
+- 900 -> 20%
+
+
+# Horizontal scaling of glyph relative to hairline
+- 100 -> 1x
+- 400 -> todo
+- 900 -> estimate is ~1.3x

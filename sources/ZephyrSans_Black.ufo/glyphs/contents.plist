@@ -8,6 +8,10 @@
     <string>braceleft.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
     <key>o</key>
     <string>o.glif</string>
   </dict>

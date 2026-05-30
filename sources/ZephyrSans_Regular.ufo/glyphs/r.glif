@@ -2,27 +2,29 @@
 <glyph name="r" format="2">
   <advance width="816"/>
   <unicode hex="0072"/>
-  <guideline x="744" y="550" angle="85" identifier="fontra-guideline-0"/>
+  <guideline x="740" y="550" angle="85" identifier="fontra-guideline-0"/>
+  <anchor x="435" y="1100" name="top"/>
+  <anchor x="234" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="144" y="1100" type="line"/>
       <point x="144" y="0" type="line"/>
-      <point x="324" y="0" type="line"/>
-      <point x="324" y="900" type="line"/>
-      <point x="288" y="1100" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="314" y="900" type="line"/>
+      <point x="297" y="1100" type="line"/>
     </contour>
     <contour>
       <point x="632" y="1124" type="curve" smooth="yes"/>
       <point x="352" y="1124"/>
-      <point x="246" y="852"/>
-      <point x="246" y="654" type="curve"/>
-      <point x="324" y="620" type="line"/>
-      <point x="324" y="842"/>
-      <point x="450" y="962"/>
-      <point x="622" y="962" type="curve" smooth="yes"/>
-      <point x="728" y="962"/>
-      <point x="770" y="926"/>
-      <point x="772" y="924" type="curve"/>
+      <point x="236" y="852"/>
+      <point x="236" y="654" type="curve"/>
+      <point x="314" y="620" type="line"/>
+      <point x="314" y="842"/>
+      <point x="450" y="971"/>
+      <point x="622" y="971" type="curve" smooth="yes"/>
+      <point x="718" y="971"/>
+      <point x="771" y="937"/>
+      <point x="773" y="935" type="curve"/>
       <point x="786" y="1094" type="line"/>
       <point x="786" y="1094" type="line"/>
       <point x="784" y="1096"/>

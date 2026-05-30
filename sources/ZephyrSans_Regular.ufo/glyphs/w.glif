@@ -2,24 +2,61 @@
 <glyph name="w" format="2">
   <advance width="1650"/>
   <unicode hex="0077"/>
+  <guideline x="0" y="300" angle="0" name="inktr_t" identifier="fontra-guideline-0"/>
+  <guideline x="0" y="50" angle="0" name="inktr_b" identifier="fontra-guideline-1"/>
+  <guideline x="220" y="1100" angle="286.83548229047335"/>
+  <guideline x="608" y="694" angle="72.75854060106002"/>
+  <guideline x="0" y="1050" angle="0" name="inktr_a_t" identifier="fontra-guideline-4"/>
+  <guideline x="1118" y="0" angle="107.6749104182079"/>
+  <guideline x="664" y="406" angle="251.73456482305505"/>
+  <anchor x="831" y="0" name="bottom"/>
+  <anchor x="830" y="1100" name="top"/>
   <outline>
     <contour>
-      <point x="935" y="1100" type="line"/>
-      <point x="1235" y="128" type="line"/>
-      <point x="1121" y="128" type="line"/>
-      <point x="1431" y="1100" type="line"/>
+      <point x="924" y="1100" type="line"/>
+      <point x="1096" y="550" type="line"/>
+      <point x="1170" y="295"/>
+      <point x="1208" y="110"/>
+      <point x="1208" y="85" type="curve"/>
+      <point x="1169" y="85" type="line"/>
+      <point x="1169" y="110"/>
+      <point x="1238" y="412"/>
+      <point x="1273" y="550" type="curve"/>
+      <point x="1430" y="1100" type="line"/>
       <point x="1620" y="1100" type="line"/>
       <point x="1248" y="0" type="line"/>
       <point x="1118" y="0" type="line"/>
-      <point x="814" y="954" type="line"/>
-      <point x="846" y="954" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="420" y="0" type="line"/>
+      <point x="897" y="694" type="line"/>
+      <point x="854" y="828"/>
+      <point x="809" y="1028"/>
+      <point x="805" y="1050" type="curve"/>
+      <point x="855" y="1050" type="line"/>
+      <point x="851" y="1028"/>
+      <point x="804" y="830"/>
+      <point x="664" y="406" type="curve"/>
+      <point x="530" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
       <point x="30" y="1100" type="line"/>
-      <point x="221" y="1100" type="line"/>
-      <point x="543" y="128" type="line"/>
-      <point x="434" y="128" type="line"/>
-      <point x="722" y="1100" type="line"/>
+      <point x="220" y="1100" type="line"/>
+      <point x="430" y="406" type="line"/>
+      <point x="462" y="300"/>
+      <point x="511" y="70"/>
+      <point x="513" y="50" type="curve"/>
+      <point x="431" y="50" type="line"/>
+      <point x="434" y="70"/>
+      <point x="486" y="301"/>
+      <point x="608" y="694" type="curve"/>
+      <point x="734" y="1100" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-1</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-4</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>
