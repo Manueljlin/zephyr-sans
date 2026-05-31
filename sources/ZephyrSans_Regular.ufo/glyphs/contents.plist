@@ -28,6 +28,8 @@
     <string>L_.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
     <key>P</key>
@@ -40,8 +42,18 @@
     <string>S_.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>U</key>
+    <string>U_.glif</string>
+    <key>V</key>
+    <string>V_.glif</string>
+    <key>W</key>
+    <string>W_.glif</string>
     <key>X</key>
     <string>X_.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
+    <key>Z</key>
+    <string>Z_.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>aacute</key>
@@ -138,6 +150,8 @@
     <string>n.glif</string>
     <key>nbspace</key>
     <string>nbspace.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>numbersign</key>

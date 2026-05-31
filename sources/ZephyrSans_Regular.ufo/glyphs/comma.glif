@@ -6,9 +6,10 @@
   <guideline x="442" y="406" angle="75" name="r" identifier="fontra-guideline-1"/>
   <outline>
     <contour>
-      <point x="264" y="-294" type="line"/>
-      <point x="150" y="-294" type="line"/>
       <point x="192" y="184" type="line"/>
+      <point x="150" y="-294" type="line"/>
+      <point x="264" y="-294" type="line"/>
+      <point x="376" y="125" type="line"/>
       <point x="392" y="184" type="line"/>
     </contour>
   </outline>
