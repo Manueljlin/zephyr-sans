@@ -115,7 +115,23 @@ keep in mind it's somewhat outdated.
 
 ## UPPERCASE
 
-todo
+Derived from `O` and `H`.
+
+`H` width is (1/1.1) * `O` width 1300 = ~1180
+`H` side bearings is 20% of its inner width 820 = 164
+
+### ratios
+todo: H side bearings 164 * 0.711 for 116 which is `O` side bearings
+
+### results
+(regular -> stem width (180))
+| # | Description                      | Value |
+|---|----------------------------------|-------|
+| 1 | = sidebearing of H               | 164   |
+| 2 | slightly - than sidebearing of H | 116   |
+| 3 | half of sidebearing of H         | 58    |
+| 4 | minimum sidebearings             |       |
+| 5 | = sidebearing of O               |       |
 
 
 ## lowercase
@@ -127,8 +143,8 @@ todo
 | 2 | = right sidebearing of n              | 0.921 |
 | 3 | slightly + than left sidebearing of n | 1.079 |
 | 4 | minimum sidebearings                  | 0.211 |
-| 5 | = sidebearings of o                   | 0.789 |
-| 6 | slightly - than sidebearings of o     | 0.711 |
+| 5 | = sidebearing of o                    | 0.789 |
+| 6 | slightly - than sidebearing of o      | 0.711 |
 
 ### results
 (hairline -> stem width (54) * 3.0 is left sidebearing of n)
@@ -138,8 +154,8 @@ todo
 | 2 | = right sidebearing of n              | 149   |
 | 3 | slightly + than left sidebearing of n | 175   |
 | 4 | minimum sidebearings                  | 34    |
-| 5 | = sidebearings of o                   | 128   |
-| 6 | slightly - than sidebearings of o     | 115   |
+| 5 | = sidebearing of o                    | 128   |
+| 6 | slightly - than sidebearing of o      | 115   |
 
 (regular -> stem width (180) * 0.8 is left sidebearing of n)
 | # | Description                           | Value |
@@ -148,8 +164,8 @@ todo
 | 2 | = right sidebearing of n              | 133   |
 | 3 | slightly + than left sidebearing of n | 155   |
 | 4 | minimum sidebearings                  | 30    |
-| 5 | = sidebearings of o                   | 114   |
-| 6 | slightly - than sidebearings of o     | 102   |
+| 5 | = sidebearing of o                    | 114   |
+| 6 | slightly - than sidebearing of o      | 102   |
 
 (black -> stem width (463) * 0.1 is left sidebearing of n)
 | # | Description                           | Value |
@@ -158,8 +174,8 @@ todo
 | 2 | = right sidebearing of n              | 42    |
 | 3 | slightly + than left sidebearing of n | 50    |
 | 4 | minimum sidebearings                  | 10    |
-| 5 | = sidebearings of o                   | 36    |
-| 6 | slightly - than sidebearings of o     | 33    |
+| 5 | = sidebearing of o                    | 36    |
+| 6 | slightly - than sidebearing of o      | 33    |
 
 
 special cases (note that it's based on hairline):

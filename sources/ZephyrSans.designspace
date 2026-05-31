@@ -35,61 +35,51 @@
     <instance familyname="Zephyr Sans" stylename="Hairline" filename="ZephyrSans_Hairline.ufo">
       <location>
         <dimension name="weight" xvalue="54"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Thin" filename="ZephyrSans_Thin.ufo">
       <location>
         <dimension name="weight" xvalue="72"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraLight" filename="ZephyrSans_ExtraLight.ufo">
       <location>
         <dimension name="weight" xvalue="101"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Light" filename="ZephyrSans_Light.ufo">
       <location>
         <dimension name="weight" xvalue="133"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Regular" filename="ZephyrSans_Regular.ufo">
       <location>
         <dimension name="weight" xvalue="170"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Medium" filename="ZephyrSans_Medium.ufo">
       <location>
         <dimension name="weight" xvalue="213"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="SemiBold" filename="ZephyrSans_SemiBold.ufo">
       <location>
         <dimension name="weight" xvalue="262"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Bold" filename="ZephyrSans_Bold.ufo">
       <location>
         <dimension name="weight" xvalue="319"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="ExtraBold" filename="ZephyrSans_ExtraBold.ufo">
       <location>
         <dimension name="weight" xvalue="386"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
     <instance familyname="Zephyr Sans" stylename="Black" filename="ZephyrSans_Black.ufo">
       <location>
         <dimension name="weight" xvalue="463"/>
-        <dimension name="optical" xvalue="14"/>
       </location>
     </instance>
   </instances>

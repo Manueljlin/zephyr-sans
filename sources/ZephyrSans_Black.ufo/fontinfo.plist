@@ -45,8 +45,18 @@
     </array>
     <key>italicAngle</key>
     <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Manuel J. de la Fuente</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://manueljlin.com</string>
+    <key>openTypeOS2VendorID</key>
+    <string>MFP</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>1100</integer>
   </dict>
