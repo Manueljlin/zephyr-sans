@@ -121,9 +121,22 @@ Derived from `O` and `H`.
 `H` side bearings is 20% of its inner width 820 = 164
 
 ### ratios
-todo: H side bearings 164 * 0.711 for 116 which is `O` side bearings
+
 
 ### results
+
+##  uppercase
+(hairline -> stem width (180))
+| # | Description                      | Value |
+|---|----------------------------------|-------|
+| 1 | = sidebearing of H               | 193   |
+| 2 | slightly - than sidebearing of H | 135   | <!-- 0.7x H sidebearing -->
+| 3 | half of sidebearing of H         | 96    |
+| 4 | minimum sidebearings             |       |
+| 5 | = sidebearing of O               | 120   |
+
+
+> FIXME: recalculate based on hairline
 (regular -> stem width (180))
 | # | Description                      | Value |
 |---|----------------------------------|-------|
@@ -157,6 +170,7 @@ todo: H side bearings 164 * 0.711 for 116 which is `O` side bearings
 | 5 | = sidebearing of o                    | 128   |
 | 6 | slightly - than sidebearing of o      | 115   |
 
+> FIXME: stem width is actually 170 rn!!
 (regular -> stem width (180) * 0.8 is left sidebearing of n)
 | # | Description                           | Value |
 |---|---------------------------------------|-------|
