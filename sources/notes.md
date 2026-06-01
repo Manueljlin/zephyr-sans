@@ -132,7 +132,7 @@ Derived from `O` and `H`.
 | 1 | = sidebearing of H               | 193   |
 | 2 | slightly - than sidebearing of H | 135   | <!-- 0.7x H sidebearing -->
 | 3 | half of sidebearing of H         | 96    |
-| 4 | minimum sidebearings             |       |
+| 4 | minimum sidebearings             | 40    | <!-- may need some more tweaking -->
 | 5 | = sidebearing of O               | 120   |
 
 
