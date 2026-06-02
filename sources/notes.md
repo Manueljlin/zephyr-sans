@@ -136,15 +136,14 @@ Derived from `O` and `H`.
 | 5 | = sidebearing of O               | 120   |
 
 
-> FIXME: recalculate based on hairline
-(regular -> stem width (180))
+(regular -> stem width (180) * 0.8 is H)
 | # | Description                      | Value |
 |---|----------------------------------|-------|
-| 1 | = sidebearing of H               | 164   |
-| 2 | slightly - than sidebearing of H | 116   |
-| 3 | half of sidebearing of H         | 58    |
-| 4 | minimum sidebearings             |       |
-| 5 | = sidebearing of O               |       |
+| 1 | = sidebearing of H               | 147   |
+| 2 | slightly - than sidebearing of H | 103   |
+| 3 | half of sidebearing of H         | 73    |
+| 4 | minimum sidebearings             | 30    |
+| 5 | = sidebearing of O               | 91    |
 
 
 ## lowercase

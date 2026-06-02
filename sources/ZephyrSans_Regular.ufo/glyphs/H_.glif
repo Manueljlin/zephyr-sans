@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1508"/>
+  <advance width="1474"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="344" y="1480" type="line"/>
-      <point x="344" y="833" type="line"/>
-      <point x="1164" y="833" type="line"/>
-      <point x="1164" y="1480" type="line"/>
-      <point x="1344" y="1480" type="line"/>
-      <point x="1344" y="0" type="line"/>
-      <point x="1164" y="0" type="line"/>
-      <point x="1164" y="671" type="line"/>
-      <point x="344" y="671" type="line"/>
-      <point x="344" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="1480" type="line"/>
+      <point x="327" y="1480" type="line"/>
+      <point x="327" y="833" type="line"/>
+      <point x="1147" y="833" type="line"/>
+      <point x="1147" y="1480" type="line"/>
+      <point x="1327" y="1480" type="line"/>
+      <point x="1327" y="0" type="line"/>
+      <point x="1147" y="0" type="line"/>
+      <point x="1147" y="671" type="line"/>
+      <point x="327" y="671" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="1480" type="line"/>
     </contour>
   </outline>
 </glyph>
