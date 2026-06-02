@@ -1,53 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls" format="2">
-  <advance width="1265"/>
+  <advance width="1255"/>
   <unicode hex="00DF"/>
   <outline>
-    <contour>
-      <point x="489" y="1586" type="curve" smooth="yes"/>
-      <point x="275" y="1586"/>
-      <point x="155" y="1470"/>
-      <point x="155" y="1246" type="curve" smooth="yes"/>
-      <point x="155" y="-73" type="line"/>
-      <point x="156" y="-74"/>
-      <point x="354" y="-177"/>
-      <point x="683" y="-177" type="curve" smooth="yes"/>
-      <point x="1026" y="-177"/>
-      <point x="1215" y="-39"/>
-      <point x="1215" y="202" type="curve" smooth="yes"/>
-      <point x="1215" y="336"/>
-      <point x="1088" y="544"/>
-      <point x="815" y="544" type="curve" smooth="yes"/>
-      <point x="787.9661254882812" y="544" type="line"/>
-      <point x="1163" y="973" type="line"/>
-      <point x="1163" y="1100" type="line"/>
-      <point x="325" y="1100" type="line"/>
-      <point x="325" y="1250" type="line" smooth="yes"/>
-      <point x="325" y="1390"/>
-      <point x="391" y="1442"/>
-      <point x="500" y="1442" type="curve" smooth="yes"/>
-      <point x="594" y="1442"/>
-      <point x="643" y="1408"/>
-      <point x="643" y="1408" type="curve"/>
-      <point x="667" y="1548" type="line"/>
-      <point x="667" y="1548"/>
-      <point x="607" y="1586"/>
-    </contour>
-    <contour>
-      <point x="325" y="947" type="line"/>
-      <point x="950" y="947" type="line"/>
-      <point x="575" y="520" type="line"/>
-      <point x="575" y="400" type="line"/>
-      <point x="756" y="400" type="line" smooth="yes"/>
-      <point x="957" y="400"/>
-      <point x="1045" y="330"/>
-      <point x="1045" y="167" type="curve" smooth="yes"/>
-      <point x="1045" y="14"/>
-      <point x="822" y="-24"/>
-      <point x="686" y="-24" type="curve" smooth="yes"/>
-      <point x="432" y="-24"/>
-      <point x="326" y="39"/>
-      <point x="325" y="40" type="curve"/>
-    </contour>
+    <component base="f"/>
+    <component base="s" xOffset="373"/>
   </outline>
 </glyph>

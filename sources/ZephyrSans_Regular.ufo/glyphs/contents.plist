@@ -126,6 +126,8 @@
     <string>g.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>germandbls.antiqua</key>
+    <string>germandbls.antiqua.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hyphen</key>
