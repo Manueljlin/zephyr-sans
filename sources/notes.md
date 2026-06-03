@@ -233,6 +233,10 @@ special cases (note that it's based on hairline):
     - on right -- 60
     - `|t| |f| tlo stick pt tuna ootoo htc nntnn deutsche`
 
+- ß
+    - on left  -- #3
+    - on right -- 90
+
 
 see "testing spacing" from designing type by karen cheng
 in the eu/uk release (red cover), 2nd edition is page 55
