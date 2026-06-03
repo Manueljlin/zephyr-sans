@@ -2,22 +2,33 @@
 <glyph name="W" format="2">
   <advance width="1880"/>
   <unicode hex="0057"/>
+  <guideline x="541" y="0" angle="74.00009899802154"/>
+  <guideline x="1140" y="694" angle="285.99990100197846"/>
   <outline>
     <contour>
       <point x="40" y="1480" type="line"/>
       <point x="466" y="0" type="line"/>
       <point x="541" y="0" type="line"/>
-      <point x="740" y="694" type="line"/>
-      <point x="960" y="1463" type="line"/>
-      <point x="920" y="1463" type="line"/>
-      <point x="1140" y="694" type="line"/>
+      <point x="891" y="1221" type="line"/>
+      <point x="925" y="1339"/>
+      <point x="946" y="1441"/>
+      <point x="946" y="1463" type="curve"/>
+      <point x="934" y="1463" type="line"/>
+      <point x="934" y="1441"/>
+      <point x="955" y="1339"/>
+      <point x="989" y="1221" type="curve"/>
       <point x="1339" y="0" type="line"/>
       <point x="1414" y="0" type="line"/>
       <point x="1840" y="1480" type="line"/>
       <point x="1783" y="1480" type="line"/>
-      <point x="1370" y="17" type="line"/>
+      <point x="1515" y="550" type="line"/>
+      <point x="1458" y="352"/>
+      <point x="1370" y="39"/>
+      <point x="1370" y="17" type="curve"/>
       <point x="1382" y="17" type="line"/>
-      <point x="1190" y="694" type="line"/>
+      <point x="1382" y="29"/>
+      <point x="1278" y="406"/>
+      <point x="1195" y="694" type="curve"/>
       <point x="967" y="1480" type="line"/>
       <point x="940" y="1480" type="line"/>
       <point x="913" y="1480" type="line"/>
