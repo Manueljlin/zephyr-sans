@@ -126,7 +126,7 @@ Derived from `O` and `H`.
 ### results
 
 ##  uppercase
-(hairline -> stem width (180))
+(hairline -> stem width (57))
 | # | Description                      | Value |
 |---|----------------------------------|-------|
 | 1 | = sidebearing of H               | 193   |
@@ -196,7 +196,7 @@ special cases (note that it's based on hairline):
     - `|r| rhinoceros wreck river`
     - `gordon run arabic`
 
-- l (on right) -- 17
+- l (on right) -- 10
     - visually adjusted volume of space with `nnlnnooloonn |l|`
     - could be improved?
 

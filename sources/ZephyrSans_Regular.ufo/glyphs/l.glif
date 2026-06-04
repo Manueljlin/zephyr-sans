@@ -2,6 +2,9 @@
 <glyph name="l" format="2">
   <advance width="534"/>
   <unicode hex="006C"/>
+  <note>
+looped tail 5deg
+</note>
   <guideline x="390" y="1550" angle="95" identifier="fontra-guideline-0"/>
   <outline>
     <contour>
