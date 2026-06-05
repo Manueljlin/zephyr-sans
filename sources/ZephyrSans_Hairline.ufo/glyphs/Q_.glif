@@ -3,12 +3,13 @@
   <advance width="1500"/>
   <unicode hex="0051"/>
   <guideline x="938" y="-422" angle="15" name="-15x3"/>
+  <guideline x="954" y="34" angle="22.52056560289691"/>
   <outline>
     <contour>
-      <point x="954" y="25" type="line"/>
+      <point x="947" y="31" type="line"/>
       <point x="1287" y="-329" type="line"/>
       <point x="1342" y="-314" type="line"/>
-      <point x="995" y="42" type="line"/>
+      <point x="990" y="49" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
