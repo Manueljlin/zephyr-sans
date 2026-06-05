@@ -14,5 +14,9 @@
       <string>alt</string>
       <string>glyphs.alt</string>
     </array>
+    <array>
+      <string>sketch2</string>
+      <string>glyphs.sketch2</string>
+    </array>
   </array>
 </plist>
