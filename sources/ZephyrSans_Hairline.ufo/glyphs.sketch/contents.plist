@@ -42,8 +42,14 @@
     <string>Z_.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>six</key>
+    <string>six.glif</string>
     <key>y</key>
     <string>y.glif</string>
   </dict>
