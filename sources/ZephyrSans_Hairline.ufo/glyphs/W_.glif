@@ -6,7 +6,6 @@
   <guideline x="1140" y="694" angle="285.99990100197846"/>
   <outline>
     <contour>
-      <point x="40" y="1480" type="line"/>
       <point x="466" y="0" type="line"/>
       <point x="541" y="0" type="line"/>
       <point x="891" y="1221" type="line"/>
@@ -41,6 +40,7 @@
       <point x="422" y="352"/>
       <point x="365" y="550" type="curve"/>
       <point x="97" y="1480" type="line"/>
+      <point x="40" y="1480" type="line"/>
     </contour>
   </outline>
 </glyph>

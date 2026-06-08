@@ -16,6 +16,8 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Germandbls</key>
+    <string>G_ermandbls.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
@@ -56,6 +58,8 @@
     <string>Z_.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>asciitilde</key>
+    <string>asciitilde.glif</string>
     <key>at</key>
     <string>at.glif</string>
     <key>b</key>
@@ -98,6 +102,8 @@
     <string>g.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>germandbls.antiqua</key>
+    <string>germandbls.antiqua.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hyphen</key>
@@ -132,6 +138,8 @@
     <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>paragraph</key>
+    <string>paragraph.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
@@ -148,12 +156,18 @@
     <string>s.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>slash</key>
+    <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>v</key>

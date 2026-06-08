@@ -4,5 +4,7 @@
   <dict>
     <key>R</key>
     <string>R_.glif</string>
+    <key>paragraph</key>
+    <string>paragraph.glif</string>
   </dict>
 </plist>

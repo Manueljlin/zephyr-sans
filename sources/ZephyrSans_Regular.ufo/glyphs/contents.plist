@@ -168,6 +168,8 @@
     <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>paragraph</key>
+    <string>paragraph.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
@@ -192,6 +194,8 @@
     <string>seven.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>slash</key>
+    <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>

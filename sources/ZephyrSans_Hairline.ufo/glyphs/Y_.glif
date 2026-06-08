@@ -5,8 +5,6 @@
   <guideline x="620" y="1200" angle="90"/>
   <outline>
     <contour>
-      <point x="30" y="1480" type="line"/>
-      <point x="591" y="592" type="line"/>
       <point x="591" y="0" type="line"/>
       <point x="648" y="0" type="line"/>
       <point x="648" y="592" type="line"/>
@@ -21,6 +19,8 @@
       <point x="544" y="771"/>
       <point x="437" y="940" type="curve"/>
       <point x="95" y="1480" type="line"/>
+      <point x="30" y="1480" type="line"/>
+      <point x="591" y="592" type="line"/>
     </contour>
   </outline>
 </glyph>
