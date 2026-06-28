@@ -3,6 +3,7 @@
   <advance width="1174"/>
   <unicode hex="0446"/>
   <outline>
+    <component base="pe-cy" xScale="-1" yScale="-1" xOffset="1158" yOffset="1100"/>
     <contour>
       <point x="969" y="0" type="line"/>
       <point x="1092" y="0" type="line"/>

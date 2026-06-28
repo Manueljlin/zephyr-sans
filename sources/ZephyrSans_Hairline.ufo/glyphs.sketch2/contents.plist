@@ -4,6 +4,8 @@
   <dict>
     <key>R</key>
     <string>R_.glif</string>
+    <key>ampersand</key>
+    <string>ampersand.glif</string>
     <key>be-cy</key>
     <string>be-cy.glif</string>
     <key>paragraph</key>
