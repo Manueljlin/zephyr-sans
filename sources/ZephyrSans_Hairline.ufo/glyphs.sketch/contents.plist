@@ -94,18 +94,26 @@
     <string>ereversed-cy.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>hardsign-cy</key>
+    <string>hardsign-cy.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>shcha-cy</key>
+    <string>shcha-cy.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>softsign-cy</key>
     <string>softsign-cy.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>tse-cy</key>
+    <string>tse-cy.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>u-cy</key>
+    <string>u-cy.glif</string>
     <key>ve-cy</key>
     <string>ve-cy.glif</string>
     <key>y</key>

@@ -150,6 +150,8 @@
     <string>c.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>che-cy</key>
+    <string>che-cy.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -212,6 +214,8 @@
     <string>ie-cy.glif</string>
     <key>ii-cy</key>
     <string>ii-cy.glif</string>
+    <key>iishort-cy</key>
+    <string>iishort-cy.glif</string>
     <key>io-cy</key>
     <string>io-cy.glif</string>
     <key>j</key>
@@ -250,6 +254,8 @@
     <string>parenleft.glif</string>
     <key>parenright</key>
     <string>parenright.glif</string>
+    <key>pe-cy</key>
+    <string>pe-cy.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>q</key>
@@ -266,6 +272,8 @@
     <string>seven.glif</string>
     <key>sha-cy</key>
     <string>sha-cy.glif</string>
+    <key>shcha-cy</key>
+    <string>shcha-cy.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>slash</key>
@@ -280,6 +288,8 @@
     <string>te-cy.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>tse-cy</key>
+    <string>tse-cy.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>u</key>
@@ -300,8 +310,12 @@
     <string>ya-cy.glif</string>
     <key>yeru-cy</key>
     <string>yeru-cy.glif</string>
+    <key>yu-cy</key>
+    <string>yu-cy.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>ze-cy</key>
+    <string>ze-cy.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zhe-cy</key>

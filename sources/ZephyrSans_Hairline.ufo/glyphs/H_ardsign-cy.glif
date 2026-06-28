@@ -4,10 +4,10 @@
   <unicode hex="042A"/>
   <outline>
     <contour>
-      <point x="320" y="1480" type="line"/>
+      <point x="339" y="1480" type="line"/>
       <point x="40" y="1480" type="line"/>
       <point x="40" y="1428" type="line"/>
-      <point x="320" y="1428" type="line"/>
+      <point x="339" y="1428" type="line"/>
     </contour>
     <component base="Softsign-cy" xOffset="117"/>
   </outline>
