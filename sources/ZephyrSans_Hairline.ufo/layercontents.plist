@@ -18,5 +18,9 @@
       <string>sketch2</string>
       <string>glyphs.sketch2</string>
     </array>
+    <array>
+      <string>sketchs</string>
+      <string>glyphs.sketchs</string>
+    </array>
   </array>
 </plist>

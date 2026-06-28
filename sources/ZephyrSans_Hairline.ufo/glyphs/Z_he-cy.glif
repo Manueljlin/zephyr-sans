@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="1811"/>
+  <unicode hex="0416"/>
+  <guideline x="0" y="740" angle="0" identifier="fontra-guideline-0"/>
+  <outline>
+    <contour>
+      <point x="877" y="0" type="line"/>
+      <point x="934" y="0" type="line"/>
+      <point x="934" y="1480" type="line"/>
+      <point x="877" y="1480" type="line"/>
+    </contour>
+    <contour>
+      <point x="1697" y="0" type="line"/>
+      <point x="1771" y="0" type="line"/>
+      <point x="1190" y="759" type="line"/>
+      <point x="1190" y="722" type="line"/>
+      <point x="1741" y="1480" type="line"/>
+      <point x="1667" y="1480" type="line"/>
+      <point x="1159" y="766" type="line"/>
+      <point x="918" y="766" type="line"/>
+      <point x="918" y="714" type="line"/>
+      <point x="1158" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="653" y="714" type="line"/>
+      <point x="893" y="714" type="line"/>
+      <point x="893" y="766" type="line"/>
+      <point x="652" y="766" type="line"/>
+      <point x="144" y="1480" type="line"/>
+      <point x="70" y="1480" type="line"/>
+      <point x="621" y="722" type="line"/>
+      <point x="621" y="759" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

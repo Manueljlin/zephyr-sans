@@ -4,18 +4,34 @@
   <dict>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Be-cy</key>
+    <string>B_e-cy.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>De-cy</key>
+    <string>D_e-cy.glif</string>
+    <key>Ef-cy</key>
+    <string>E_f-cy.glif</string>
+    <key>El-cy</key>
+    <string>E_l-cy.glif</string>
+    <key>Ereversed-cy</key>
+    <string>E_reversed-cy.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Ge-cy</key>
+    <string>G_e-cy.glif</string>
+    <key>Hardsign-cy</key>
+    <string>H_ardsign-cy.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Ka-cy</key>
+    <string>K_a-cy.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>M</key>
@@ -24,26 +40,58 @@
     <string>N_.glif</string>
     <key>P</key>
     <string>P_.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Sha-cy</key>
+    <string>S_ha-cy.glif</string>
+    <key>Shcha-cy</key>
+    <string>S_hcha-cy.glif</string>
+    <key>Softsign-cy</key>
+    <string>S_oftsign-cy.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>U-cy</key>
+    <string>U_-cy.glif</string>
     <key>W</key>
     <string>W_.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Yu-cy</key>
+    <string>Y_u-cy.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Ze-cy</key>
+    <string>Z_e-cy.glif</string>
+    <key>Zhe-cy</key>
+    <string>Z_he-cy.glif</string>
+    <key>ampersand</key>
+    <string>ampersand.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>be-cy</key>
+    <string>be-cy.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>de-cy</key>
+    <string>de-cy.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>ef-cy</key>
+    <string>ef-cy.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>el-cy</key>
+    <string>el-cy.glif</string>
+    <key>ereversed-cy</key>
+    <string>ereversed-cy.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>paragraph</key>
@@ -52,7 +100,17 @@
     <string>r.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>softsign-cy</key>
+    <string>softsign-cy.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
+    <key>ve-cy</key>
+    <string>ve-cy.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>zhe-cy</key>
+    <string>zhe-cy.glif</string>
   </dict>
 </plist>

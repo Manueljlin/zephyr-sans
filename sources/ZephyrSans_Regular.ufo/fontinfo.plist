@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1550</integer>
+    <integer>1930</integer>
     <key>capHeight</key>
     <integer>1480</integer>
     <key>descender</key>
@@ -42,13 +42,49 @@
         <key>y</key>
         <integer>406</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>asc</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>1550</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>asc-buf</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>1586</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHheaAscender</key>
+    <integer>1930</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-450</integer>
+    <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Manuel J. de la Fuente</string>
     <key>openTypeNameDesignerURL</key>
     <string>https://manueljlin.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1930</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-450</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>MFP</string>
     <key>unitsPerEm</key>
