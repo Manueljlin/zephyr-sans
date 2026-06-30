@@ -10,6 +10,8 @@
     <string>K_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>Schwa-cy</key>
+    <string>S_chwa-cy.glif</string>
     <key>Ze-cy</key>
     <string>Z_e-cy.glif</string>
     <key>ampersand</key>
@@ -22,6 +24,8 @@
     <string>paragraph.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>schwa-cy</key>
+    <string>schwa-cy.glif</string>
     <key>zhe-cy</key>
     <string>zhe-cy.glif</string>
   </dict>

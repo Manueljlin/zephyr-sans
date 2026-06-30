@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy" format="2">
+  <advance width="1040"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="493" y="55" type="line"/>
+      <point x="493" y="-450" type="line"/>
+      <point x="547" y="-450" type="line"/>
+      <point x="547" y="55" type="line"/>
+    </contour>
+    <component base="v"/>
+  </outline>
+</glyph>

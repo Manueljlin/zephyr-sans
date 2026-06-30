@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="e" format="2">
+<glyph name="schwa-cy" format="2">
   <advance width="1179"/>
-  <unicode hex="0065"/>
+  <unicode hex="04D9"/>
   <outline>
-    <component base="o"/>
+    <component base="o" xOffset="-78"/>
   </outline>
 </glyph>

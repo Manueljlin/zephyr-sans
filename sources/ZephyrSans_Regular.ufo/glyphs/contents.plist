@@ -20,6 +20,8 @@
     <string>D_e-cy.glif</string>
     <key>Dje-cy</key>
     <string>D_je-cy.glif</string>
+    <key>Dze-cy</key>
+    <string>D_ze-cy.glif</string>
     <key>Dzhe-cy</key>
     <string>D_zhe-cy.glif</string>
     <key>E</key>
@@ -78,14 +80,20 @@
     <string>K_a-cy.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>Lje-cy</key>
+    <string>L_je-cy.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>Nje-cy</key>
+    <string>N_je-cy.glif</string>
     <key>O</key>
     <string>O_.glif</string>
     <key>O-cy</key>
     <string>O_-cy.glif</string>
+    <key>Obarred-cy</key>
+    <string>O_barred-cy.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Pe-cy</key>
@@ -96,10 +104,14 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Schwa-cy</key>
+    <string>S_chwa-cy.glif</string>
     <key>Sha-cy</key>
     <string>S_ha-cy.glif</string>
     <key>Shcha-cy</key>
     <string>S_hcha-cy.glif</string>
+    <key>Shha-cy</key>
+    <string>S_hha-cy.glif</string>
     <key>Softsign-cy</key>
     <string>S_oftsign-cy.glif</string>
     <key>T</key>
@@ -114,6 +126,8 @@
     <string>U_.glif</string>
     <key>U-cy</key>
     <string>U_-cy.glif</string>
+    <key>Ustraight-cy</key>
+    <string>U_straight-cy.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>Ve-cy</key>
@@ -138,6 +152,8 @@
     <string>Z_e-cy.glif</string>
     <key>Zhe-cy</key>
     <string>Z_he-cy.glif</string>
+    <key>Zhedescender-cy</key>
+    <string>Z_hedescender-cy.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>a-cy</key>
@@ -188,6 +204,8 @@
     <string>dje-cy.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
+    <key>dze-cy</key>
+    <string>dze-cy.glif</string>
     <key>dzhe-cy</key>
     <string>dzhe-cy.glif</string>
     <key>e</key>
@@ -302,6 +320,8 @@
     <string>o.glif</string>
     <key>o-cy</key>
     <string>o-cy.glif</string>
+    <key>obarred-cy</key>
+    <string>obarred-cy.glif</string>
     <key>one</key>
     <string>one.glif</string>
     <key>p</key>
@@ -328,6 +348,8 @@
     <string>r.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>schwa-cy</key>
+    <string>schwa-cy.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -336,6 +358,8 @@
     <string>sha-cy.glif</string>
     <key>shcha-cy</key>
     <string>shcha-cy.glif</string>
+    <key>shha-cy</key>
+    <string>shha-cy.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>slash</key>
@@ -362,6 +386,8 @@
     <string>u-cy.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>ustraight-cy</key>
+    <string>ustraight-cy.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>ve-cy</key>
@@ -388,5 +414,7 @@
     <string>zero.glif</string>
     <key>zhe-cy</key>
     <string>zhe-cy.glif</string>
+    <key>zhedescender-cy</key>
+    <string>zhedescender-cy.glif</string>
   </dict>
 </plist>

@@ -6,10 +6,15 @@
   <guideline x="1180" y="0" angle="108"/>
   <outline>
     <contour>
-      <point x="1337" y="-308" type="line"/>
+      <point x="829" y="-24" type="curve" smooth="yes"/>
+      <point x="1025" y="-24"/>
+      <point x="1202" y="-70"/>
+      <point x="1267" y="-267" type="curve" smooth="yes"/>
+      <point x="1285" y="-322" type="line"/>
+      <point x="1342" y="-322" type="line"/>
       <point x="1326" y="-273" type="line" smooth="yes"/>
-      <point x="1245" y="-21"/>
-      <point x="1035" y="3"/>
+      <point x="1243" y="-20"/>
+      <point x="1035" y="2"/>
       <point x="835" y="6" type="curve" smooth="yes"/>
       <point x="700" y="9" type="line"/>
       <point x="700" y="-2" type="line"/>
@@ -25,11 +30,6 @@
       <point x="120" y="746" type="curve" smooth="yes"/>
       <point x="120" y="196"/>
       <point x="436" y="-24"/>
-      <point x="829" y="-24" type="curve" smooth="yes"/>
-      <point x="1025" y="-24"/>
-      <point x="1204" y="-68"/>
-      <point x="1267" y="-267" type="curve" smooth="yes"/>
-      <point x="1280" y="-308" type="line"/>
     </contour>
     <contour>
       <point x="760" y="28" type="curve" smooth="yes"/>

@@ -38,10 +38,14 @@
     <string>K_a-cy.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>Lje-cy</key>
+    <string>L_je-cy.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>Nje-cy</key>
+    <string>N_je-cy.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Q</key>
@@ -50,6 +54,8 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Schwa-cy</key>
+    <string>S_chwa-cy.glif</string>
     <key>Sha-cy</key>
     <string>S_ha-cy.glif</string>
     <key>Shcha-cy</key>
@@ -58,6 +64,8 @@
     <string>S_oftsign-cy.glif</string>
     <key>T</key>
     <string>T_.glif</string>
+    <key>Tshe-cy</key>
+    <string>T_she-cy.glif</string>
     <key>U</key>
     <string>U_.glif</string>
     <key>U-cy</key>
@@ -110,6 +118,8 @@
     <string>paragraph.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>schwa-cy</key>
+    <string>schwa-cy.glif</string>
     <key>shcha-cy</key>
     <string>shcha-cy.glif</string>
     <key>six</key>
@@ -124,6 +134,8 @@
     <string>u.glif</string>
     <key>u-cy</key>
     <string>u-cy.glif</string>
+    <key>ustraight-cy</key>
+    <string>ustraight-cy.glif</string>
     <key>ve-cy</key>
     <string>ve-cy.glif</string>
     <key>y</key>

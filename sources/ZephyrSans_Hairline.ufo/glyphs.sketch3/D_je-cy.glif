@@ -3,6 +3,6 @@
   <advance width="1710"/>
   <unicode hex="0402"/>
   <outline>
-    <component base="Hardsign-cy" xOffset="15"/>
+    <component base="J" xOffset="1012"/>
   </outline>
 </glyph>

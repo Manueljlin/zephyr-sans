@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="1500"/>
+  <unicode hex="04E8"/>
+  <guideline x="-18" y="746" angle="0"/>
+  <outline>
+    <contour>
+      <point x="152" y="730" type="line"/>
+      <point x="1349" y="730" type="line"/>
+      <point x="1349" y="782" type="line"/>
+      <point x="152" y="782" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+</glyph>
