@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy" format="2">
+  <advance width="1060"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="932" y="0" type="line"/>
+      <point x="978" y="0" type="line"/>
+      <point x="978" y="-322" type="line"/>
+      <point x="1021" y="-322" type="line"/>
+      <point x="1026" y="48" type="line"/>
+      <point x="932" y="48" type="line"/>
+    </contour>
+    <component base="ha-cy"/>
+  </outline>
+</glyph>

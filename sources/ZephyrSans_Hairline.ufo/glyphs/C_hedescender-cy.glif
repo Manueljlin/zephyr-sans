@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescender-cy" format="2">
+  <advance width="1323"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <contour>
+      <point x="1102" y="0" type="line"/>
+      <point x="1202" y="0" type="line"/>
+      <point x="1202" y="-322" type="line"/>
+      <point x="1253" y="-322" type="line"/>
+      <point x="1259" y="52" type="line"/>
+      <point x="1102" y="52" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+</glyph>
