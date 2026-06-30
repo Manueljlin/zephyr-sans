@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yi-cy" format="2">
+  <advance width="443"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="51" yOffset="284"/>
+    <component base="dotaccentcomb" xOffset="229" yOffset="284"/>
+    <component base="I"/>
+  </outline>
+</glyph>

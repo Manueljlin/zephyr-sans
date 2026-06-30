@@ -3,14 +3,23 @@
   <advance width="1174"/>
   <unicode hex="0446"/>
   <outline>
-    <component base="pe-cy" xScale="-1" yScale="-1" xOffset="1158" yOffset="1100"/>
     <contour>
       <point x="969" y="0" type="line"/>
       <point x="1092" y="0" type="line"/>
-      <point x="1097" y="-239" type="line"/>
-      <point x="1140" y="-239" type="line"/>
+      <point x="1097" y="-322" type="line"/>
+      <point x="1140" y="-322" type="line"/>
       <point x="1140" y="48" type="line"/>
       <point x="969" y="48" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="996" y="1100" type="line"/>
+      <point x="942" y="1100" type="line"/>
+      <point x="942" y="48" type="line"/>
+      <point x="216" y="48" type="line"/>
+      <point x="216" y="1100" type="line"/>
+      <point x="162" y="1100" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,23 +34,23 @@
           <key>transformation</key>
           <dict>
             <key>rotation</key>
-            <integer>180</integer>
+            <real>0.0</real>
             <key>scaleX</key>
-            <integer>1</integer>
+            <real>-1.0</real>
             <key>scaleY</key>
-            <integer>1</integer>
+            <real>-1.0</real>
             <key>skewX</key>
-            <integer>0</integer>
+            <real>-0.0</real>
             <key>skewY</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>tCenterX</key>
-            <integer>579</integer>
+            <integer>0</integer>
             <key>tCenterY</key>
-            <integer>550</integer>
+            <integer>0</integer>
             <key>translateX</key>
-            <integer>0</integer>
+            <integer>1158</integer>
             <key>translateY</key>
-            <integer>0</integer>
+            <integer>1100</integer>
           </dict>
         </dict>
       </array>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy" format="2">
+  <advance width="1252"/>
+  <unicode hex="045B"/>
+  <outline>
+    <contour>
+      <point x="24" y="1283" type="line"/>
+      <point x="798" y="1283" type="line"/>
+      <point x="798" y="1331" type="line"/>
+      <point x="24" y="1331" type="line"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+</glyph>

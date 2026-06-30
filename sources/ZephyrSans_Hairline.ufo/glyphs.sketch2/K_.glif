@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="1253"/>
+  <unicode hex="004B"/>
+  <guideline x="250" y="752" angle="315" identifier="fontra-guideline-0"/>
+  <guideline x="250" y="752" angle="45" identifier="fontra-guideline-1"/>
+  <guideline x="581" y="0" angle="90" name="Width * (1/1.618)"/>
+  <guideline x="0" y="429" angle="0" name="CapsHeight - (1/sqrt(2) * CapsHeight)"/>
+  <guideline x="222" y="475" angle="48.47279356859548"/>
+  <outline>
+    <contour>
+      <point x="193" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="1480" type="line"/>
+      <point x="193" y="1480" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="396" type="line"/>
+      <point x="569" y="780" type="line"/>
+      <point x="1181" y="1480" type="line"/>
+      <point x="1112" y="1480" type="line"/>
+      <point x="538" y="824" type="line"/>
+      <point x="222" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="1141" y="0" type="line"/>
+      <point x="1213" y="0" type="line"/>
+      <point x="572" y="823" type="line"/>
+      <point x="535" y="783" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-0</key>
+      <true/>
+      <key>com.typemytype.robofont.guideline.locked.fontra-guideline-1</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

@@ -22,5 +22,9 @@
       <string>sketchs</string>
       <string>glyphs.sketchs</string>
     </array>
+    <array>
+      <string>sketch3</string>
+      <string>glyphs.sketch3</string>
+    </array>
   </array>
 </plist>

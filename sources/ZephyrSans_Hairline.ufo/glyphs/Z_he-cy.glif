@@ -13,26 +13,26 @@
     <contour>
       <point x="1697" y="0" type="line"/>
       <point x="1771" y="0" type="line"/>
-      <point x="1190" y="759" type="line"/>
-      <point x="1190" y="722" type="line"/>
+      <point x="1200" y="759" type="line"/>
+      <point x="1200" y="722" type="line"/>
       <point x="1741" y="1480" type="line"/>
       <point x="1667" y="1480" type="line"/>
-      <point x="1159" y="766" type="line"/>
+      <point x="1169" y="766" type="line"/>
       <point x="918" y="766" type="line"/>
       <point x="918" y="714" type="line"/>
-      <point x="1158" y="714" type="line"/>
+      <point x="1168" y="714" type="line"/>
     </contour>
     <contour>
       <point x="40" y="0" type="line"/>
       <point x="114" y="0" type="line"/>
-      <point x="653" y="714" type="line"/>
+      <point x="643" y="714" type="line"/>
       <point x="893" y="714" type="line"/>
       <point x="893" y="766" type="line"/>
-      <point x="652" y="766" type="line"/>
+      <point x="642" y="766" type="line"/>
       <point x="144" y="1480" type="line"/>
       <point x="70" y="1480" type="line"/>
-      <point x="621" y="722" type="line"/>
-      <point x="621" y="759" type="line"/>
+      <point x="611" y="722" type="line"/>
+      <point x="611" y="759" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hardsign-cy" format="2">
-  <advance width="1431"/>
+  <advance width="1526"/>
   <unicode hex="042A"/>
   <outline>
     <contour>
-      <point x="339" y="1480" type="line"/>
+      <point x="434" y="1480" type="line"/>
       <point x="40" y="1480" type="line"/>
       <point x="40" y="1428" type="line"/>
-      <point x="339" y="1428" type="line"/>
+      <point x="434" y="1428" type="line"/>
     </contour>
-    <component base="Softsign-cy" xOffset="117"/>
+    <component base="Softsign-cy" xOffset="212"/>
   </outline>
 </glyph>

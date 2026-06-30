@@ -12,6 +12,10 @@
     <string>D_.glif</string>
     <key>De-cy</key>
     <string>D_e-cy.glif</string>
+    <key>Dje-cy</key>
+    <string>D_je-cy.glif</string>
+    <key>E-cy</key>
+    <string>E_-cy.glif</string>
     <key>Ef-cy</key>
     <string>E_f-cy.glif</string>
     <key>El-cy</key>
@@ -82,20 +86,26 @@
     <string>c.glif</string>
     <key>de-cy</key>
     <string>de-cy.glif</string>
+    <key>dje-cy</key>
+    <string>dje-cy.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>e-cy</key>
+    <string>e-cy.glif</string>
     <key>ef-cy</key>
     <string>ef-cy.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>el-cy</key>
     <string>el-cy.glif</string>
-    <key>ereversed-cy</key>
-    <string>ereversed-cy.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>hardsign-cy</key>
     <string>hardsign-cy.glif</string>
+    <key>lje-cy</key>
+    <string>lje-cy.glif</string>
+    <key>nje-cy</key>
+    <string>nje-cy.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
     <key>r</key>
@@ -118,6 +128,8 @@
     <string>ve-cy.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>ze-cy</key>
+    <string>ze-cy.glif</string>
     <key>zhe-cy</key>
     <string>zhe-cy.glif</string>
   </dict>

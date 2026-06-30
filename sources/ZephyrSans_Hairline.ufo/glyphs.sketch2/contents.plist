@@ -2,12 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>De-cy</key>
+    <string>D_e-cy.glif</string>
+    <key>Dje-cy</key>
+    <string>D_je-cy.glif</string>
+    <key>K</key>
+    <string>K_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>Ze-cy</key>
+    <string>Z_e-cy.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>be-cy</key>
     <string>be-cy.glif</string>
+    <key>ef-cy</key>
+    <string>ef-cy.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
     <key>r</key>

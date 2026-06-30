@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yeru-cy" format="2">
-  <advance width="1650"/>
+  <advance width="1701"/>
   <unicode hex="042B"/>
   <outline>
     <component base="Softsign-cy"/>
-    <component base="I" xOffset="1207"/>
+    <component base="I" xOffset="1258"/>
   </outline>
 </glyph>
