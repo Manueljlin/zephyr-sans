@@ -117,6 +117,16 @@
           <key>url</key>
           <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Cyrillic_Core.txt</string>
         </dict>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Cyrillic Plus</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Cyrillic_Plus.txt</string>
+        </dict>
       </array>
     </dict>
   </lib>

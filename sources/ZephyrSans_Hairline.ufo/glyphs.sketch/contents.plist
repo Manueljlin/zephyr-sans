@@ -28,6 +28,8 @@
     <string>G_.glif</string>
     <key>Ge-cy</key>
     <string>G_e-cy.glif</string>
+    <key>Gestroke-cy</key>
+    <string>G_estroke-cy.glif</string>
     <key>Hardsign-cy</key>
     <string>H_ardsign-cy.glif</string>
     <key>J</key>
@@ -108,6 +110,8 @@
     <string>el-cy.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>gestroke-cy</key>
+    <string>gestroke-cy.glif</string>
     <key>hardsign-cy</key>
     <string>hardsign-cy.glif</string>
     <key>lje-cy</key>
