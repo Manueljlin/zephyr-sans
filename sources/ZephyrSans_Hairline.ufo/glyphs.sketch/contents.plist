@@ -88,12 +88,14 @@
     <string>Z_he-cy.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
-    <key>at</key>
-    <string>at.glif</string>
     <key>be-cy</key>
     <string>be-cy.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>cent</key>
+    <string>cent.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
     <key>de-cy</key>
     <string>de-cy.glif</string>
     <key>dje-cy</key>
@@ -130,20 +132,28 @@
     <string>six.glif</string>
     <key>softsign-cy</key>
     <string>softsign-cy.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
     <key>tse-cy</key>
     <string>tse-cy.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>u-cy</key>
     <string>u-cy.glif</string>
+    <key>underscore</key>
+    <string>underscore.glif</string>
     <key>ustraight-cy</key>
     <string>ustraight-cy.glif</string>
     <key>ve-cy</key>
     <string>ve-cy.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yen</key>
+    <string>yen.glif</string>
     <key>ze-cy</key>
     <string>ze-cy.glif</string>
     <key>zhe-cy</key>

@@ -194,6 +194,8 @@
     <string>c.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>cent</key>
+    <string>cent.glif</string>
     <key>che-cy</key>
     <string>che-cy.glif</string>
     <key>chedescender-cy</key>
@@ -202,6 +204,10 @@
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>copyleft</key>
+    <string>copyleft.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>de-cy</key>
@@ -210,6 +216,8 @@
     <string>divide.glif</string>
     <key>dje-cy</key>
     <string>dje-cy.glif</string>
+    <key>dollar</key>
+    <string>dollar.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
     <key>dze-cy</key>
@@ -232,6 +240,8 @@
     <string>emdash.glif</string>
     <key>en-cy</key>
     <string>en-cy.glif</string>
+    <key>endash</key>
+    <string>endash.glif</string>
     <key>endescender-cy</key>
     <string>endescender-cy.glif</string>
     <key>er-cy</key>
@@ -240,6 +250,8 @@
     <string>ereversed-cy.glif</string>
     <key>es-cy</key>
     <string>es-cy.glif</string>
+    <key>euro</key>
+    <string>euro.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>f</key>
@@ -342,6 +354,8 @@
     <string>quotesingle.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>registered</key>
+    <string>registered.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>schwa-cy</key>
@@ -364,12 +378,16 @@
     <string>softsign-cy.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>te-cy</key>
     <string>te-cy.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
     <key>tse-cy</key>
     <string>tse-cy.glif</string>
     <key>tshe-cy</key>
@@ -380,6 +398,8 @@
     <string>u.glif</string>
     <key>u-cy</key>
     <string>u-cy.glif</string>
+    <key>underscore</key>
+    <string>underscore.glif</string>
     <key>ustraight-cy</key>
     <string>ustraight-cy.glif</string>
     <key>ustraightstroke-cy</key>
@@ -396,6 +416,8 @@
     <string>y.glif</string>
     <key>ya-cy</key>
     <string>ya-cy.glif</string>
+    <key>yen</key>
+    <string>yen.glif</string>
     <key>yeru-cy</key>
     <string>yeru-cy.glif</string>
     <key>yi-cy</key>

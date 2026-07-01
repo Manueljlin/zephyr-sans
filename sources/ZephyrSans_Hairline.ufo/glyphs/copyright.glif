@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="2292"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="1146" y="-232" type="curve" smooth="yes"/>
+      <point x="1691" y="-232"/>
+      <point x="2072" y="150"/>
+      <point x="2072" y="694" type="curve" smooth="yes"/>
+      <point x="2072" y="1240"/>
+      <point x="1691" y="1620"/>
+      <point x="1146" y="1620" type="curve" smooth="yes"/>
+      <point x="601" y="1620"/>
+      <point x="220" y="1240"/>
+      <point x="220" y="694" type="curve" smooth="yes"/>
+      <point x="220" y="150"/>
+      <point x="601" y="-232"/>
+    </contour>
+    <contour>
+      <point x="1146" y="-184" type="curve" smooth="yes"/>
+      <point x="634" y="-184"/>
+      <point x="274" y="183"/>
+      <point x="274" y="694" type="curve" smooth="yes"/>
+      <point x="274" y="1207"/>
+      <point x="634" y="1572"/>
+      <point x="1146" y="1572" type="curve" smooth="yes"/>
+      <point x="1658" y="1572"/>
+      <point x="2018" y="1207"/>
+      <point x="2018" y="694" type="curve" smooth="yes"/>
+      <point x="2018" y="183"/>
+      <point x="1658" y="-184"/>
+    </contour>
+    <component base="c" xOffset="525" yOffset="141"/>
+  </outline>
+</glyph>
