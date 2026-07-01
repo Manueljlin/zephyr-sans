@@ -180,6 +180,8 @@
     <string>at.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>backslash</key>
+    <string>backslash.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>be-cy</key>
@@ -366,6 +368,8 @@
     <string>parenright.glif</string>
     <key>pe-cy</key>
     <string>pe-cy.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>plus</key>
